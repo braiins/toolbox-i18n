@@ -10,3 +10,8106 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.7.1-dev\n"
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:981
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1040 /checksum/KcE81/lbC/
+msgctxt "UI"
+msgid "All"
+msgstr ""
+
+#: packages/toolbox/app/pages/E404.tsx:9 /checksum/SmkgRt8tjK
+msgctxt "UI"
+msgid "Page Not Found"
+msgstr ""
+
+#: packages/toolbox/app/pages/E404.tsx:10 /checksum/Dk+8tl62KG
+msgctxt "UI"
+msgid "We couldn't find the page or file you're looking for."
+msgstr ""
+
+#: shared/lib/router/misc.tsx:63 /checksum/DI3eXXShyd
+msgctxt "UI"
+msgid "An error has occurred while loading the page!"
+msgstr ""
+
+#: shared/components/carbon/DatePager/DatePager.tsx:89
+#: shared/lib/helpOverlay/HelpMe.tsx:162 /checksum/xku/Ae0wC2
+msgctxt "UI"
+msgid "Previous"
+msgstr ""
+
+#: shared/components/carbon/DatePager/DatePager.tsx:101
+#: shared/lib/helpOverlay/HelpMe.tsx:169 /checksum/FLgviAnpcl
+msgctxt "UI"
+msgid "Next"
+msgstr ""
+
+#: shared/lib/layout/components/Layout.tsx:230 /checksum/cVJRkxBrxE
+msgctxt "UI"
+msgid "An error has occurred!"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1520
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1583
+#: shared/components/carbon/DataTable/DataTable.tsx:258
+#: shared/components/carbon/Progressbar/Progressbar.tsx:54
+#: /checksum/1r/fx4e7T/
+msgctxt "UI"
+msgid "Cancel"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:649
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1079
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1350 /checksum/mNp+r9gd5E
+msgctxt "UI"
+msgid "Disabled"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1609 /checksum/D+W+rowx1j
+msgctxt "UI"
+msgid "Loading…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:387 /checksum/ZYbsui/w4d
+msgctxt "UI"
+msgid "Error"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/components/StatusPage/StatusPage.tsx:48
+#: /checksum/3nCmoeStAW
+msgctxt "UI"
+msgid "Go to Homepage"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:183 /checksum/cM6eWbvdlw
+msgctxt "UI"
+msgid "Password"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:157
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1073 /checksum/Y+am5Yp1ex
+msgctxt "UI"
+msgid "Autotuning"
+msgstr ""
+
+#: packages/toolbox/app/pages/Log/Log.tsx:25
+#: packages/toolbox/app/pages/Root/Root.tsx:258 /checksum/jeX/hNle4b
+msgctxt "UI"
+msgid "Log"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:319 /checksum/CYAkeY00Qq
+msgctxt "UI"
+msgid "Open menu"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:133 /checksum/KwuybsWn+f
+msgctxt "UI"
+msgid "Hashrate"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:101 /checksum/LlgQaskXjK
+msgctxt "UI"
+msgid "ID"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:650
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1077 /checksum/rGh6T8gPti
+msgctxt "UI"
+msgid "Running"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1391
+#: packages/toolbox/app/pages/Root/Root.tsx:259
+#: packages/toolbox/app/pages/Settings/Settings.tsx:25 /checksum/4rTQE18CBV
+msgctxt "UI"
+msgid "Settings"
+msgstr ""
+
+#: shared/components/app/LinksBar/LinksBar.tsx:40 /checksum/4arFVhx+6a
+msgctxt "UI"
+msgid "Language"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:648
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1078
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1351 /checksum/8lnFStJQyT
+msgctxt "UI"
+msgid "Enabled"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1604
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1632
+#: packages/toolbox/app/pages/Root/Root.tsx:257 /checksum/QRPb99Bg92
+msgctxt "UI"
+msgid "Devices"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:311 /checksum/i56R53fXeQ
+msgctxt "UI"
+msgid "Installs & Device Configs"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:349 /checksum/Qawi3UpGAF
+msgctxt "UI"
+msgid "Running updates $progress…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:354 /checksum/QqDyDDasa/
+msgctxt "UI"
+msgid "Updates Completed"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:372 /checksum/a6PvQ9RklR
+msgctxt "UI"
+msgid "Selected Devices"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:380 /checksum/iggK2aOFM5
+msgctxt "UI"
+msgid "Updated"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:403 /checksum/8ojYj9y6F3
+msgctxt "UI"
+msgid "$progress Completed"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:413 /checksum/k99N2vpxJY
+msgctxt "UI"
+msgid "ETA $eta"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:438 /checksum/8TzvBVU0gP
+msgctxt "UI"
+msgid "Stop Action"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:462 /checksum/o6pULoDLvU
+msgctxt "UI"
+msgid "Change Language"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:563 /checksum/xn7vgAfP/8
+msgctxt "UI"
+msgid "Braiins | Bitcoin Mining Company"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:566 /checksum/MMWeCsSd0k
+msgctxt "UI"
+msgid "Bitcoin Mining Company"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:107
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1018 /checksum/+ggUWZBcLS
+msgctxt "UI"
+msgid "Device Type"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:114 /checksum/z/wgQ+zzfq
+msgctxt "UI"
+msgid "IP"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:120
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1009 /checksum/l5DwstFdKA
+msgctxt "UI"
+msgid "IP Group"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:127 /checksum/PF+vOxJHI0
+msgctxt "UI"
+msgid "State"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:139 /checksum/KvCLkpiKSP
+msgctxt "UI"
+msgid "Chip Temp."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:145 /checksum/tv8z9nINH1
+msgctxt "UI"
+msgid "Fans"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:151 /checksum/azt1e59dYi
+msgctxt "UI"
+msgid "Boards"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:164 /checksum/U9lWddunWL
+msgctxt "UI"
+msgid "Config"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:170
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1325 /checksum/yLDFZSsSRO
+msgctxt "UI"
+msgid "Listen"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:177 /checksum/Unjg5IeNjj
+msgctxt "UI"
+msgid "Pool"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:190
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1094 /checksum/MvxLuR68y7
+msgctxt "UI"
+msgid "Labels"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:196 /checksum/ovVm/FMoFC
+msgctxt "UI"
+msgid "Note"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:623 /checksum/4K9vXa27CY
+msgctxt "UI"
+msgid "Nothing to export in current view."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:635 /checksum/3g8sS7edAi
+msgctxt "UI"
+msgid ""
+"Failed to generate data export:\n"
+"$error"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:760 /checksum/XUN9IwEWbE
+msgctxt "UI"
+msgid "Open the IP in new tab"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:773 /checksum/dHkKeUUUdT
+msgctxt "UI"
+msgid "All boards OK"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:776 /checksum/l737jEwizl
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {board} other {boards} } KO"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1011 /checksum/3QJGFezWUL
+msgctxt "UI"
+msgid "IP Groups"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1020 /checksum/fs3FwQQSb9
+msgctxt "UI"
+msgid "Device Types"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1027 /checksum/ClSaAj9TZT
+msgctxt "UI"
+msgid "Firmware"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1029 /checksum/NUOhLsbeaT
+msgctxt "UI"
+msgid "Firmwares"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1036 /checksum/G2WnVEmck2
+msgctxt "UI"
+msgid "Another Filter"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1049 /checksum/gRHpRKjNhY
+msgctxt "UI"
+msgid "Chip Temperature (°C)"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1061 /checksum/6TWiGa+3Dv
+msgctxt "UI"
+msgid "Fans (%)"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1081 /checksum/waxGsAPYCE
+msgctxt "UI"
+msgid "States"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1093 /checksum/aXrpS1/T7g
+msgctxt "UI"
+msgid "Labels…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1109 /checksum/7V+ZeQ/5NB
+msgctxt "UI"
+msgid "Unapplied changes"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1118 /checksum/sKV5vJ8BUi
+msgctxt "UI"
+msgid "Clear"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1125 /checksum/lXG94FgkUV
+msgctxt "UI"
+msgid "Done"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1147 /checksum/tiavgAzTqk
+msgctxt "UI"
+msgid ""
+"{num, plural, =1 {IP Group} other {# IP Groups} }: "
+"<strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1161 /checksum/ZpSEiJWRlF
+msgctxt "UI"
+msgid ""
+"{num, plural, =1 {Dev.type} other {# Dev.types} }: "
+"<strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1175 /checksum/pEDylJA0r3
+msgctxt "UI"
+msgid ""
+"{num, plural, =1 {Firmware} other {# Firmwares} }: "
+"<strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1188 /checksum/+nPeJHTAH7
+msgctxt "UI"
+msgid "Chip Temp.: <strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1204 /checksum/xoo1dVo+gn
+msgctxt "UI"
+msgid "Fans Perc.: <strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1220 /checksum/0LteQMfYNd
+msgctxt "UI"
+msgid "Autotuning: <strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1234 /checksum/DNmN86LXLE
+msgctxt "UI"
+msgid "{num, plural, =1 {Label} other {# Labels} }: {selection}"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1249 /checksum/751Y4Gt7ND
+msgctxt "UI"
+msgid "Clear Filters"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1276 /checksum/z5vcK9FGCb
+msgctxt "UI"
+msgid "There are no devices"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1277 /checksum/9DiL5ct5WU
+msgctxt "UI"
+msgid ""
+"Worker is a name for your mining device that you use as a login for your "
+"mining software."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1287
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1373 /checksum/Edh1xzEHrI
+msgctxt "UI"
+msgid "Scan Network"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1293 /checksum/jmd6ZFw6iv
+msgctxt "UI"
+msgid "Install BOS+ on Everything"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1304 /checksum/ye9Pe7uryy
+msgctxt "UI"
+msgid "Search the Table…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1313 /checksum/LCpBtbm6oj
+msgctxt "UI"
+msgid "Filter"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1340 /checksum/WNBcFHE5sj
+msgctxt "UI"
+msgid "Listen Mode"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1358 /checksum/+j0xQLTdfn
+msgctxt "UI"
+msgid ""
+"With listen mode you can discover devices on your ethernet. Lorem ipsum "
+"dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1379 /checksum/jHALNUEJ99
+msgctxt "UI"
+msgid "Export Data"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1400
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1585 /checksum/0SQIfJS17t
+msgctxt "UI"
+msgid "Modify Columns"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1404
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1522 /checksum/yQsPajPvrx
+msgctxt "UI"
+msgid "Display Density"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1408 /checksum/hOQyWJF7ar
+msgctxt "UI"
+msgid "Refresh Interval: $interval"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1424
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1426 /checksum/LetCQS+/JK
+msgctxt "UI"
+msgid "Install"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1431
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1433 /checksum/1g/p5Bo3bn
+msgctxt "UI"
+msgid "Device Config"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1438
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1440 /checksum/kuE7pz1L10
+msgctxt "UI"
+msgid "Pool Config"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1445 /checksum/su6ux1JBIB
+msgctxt "UI"
+msgid "More Actions"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1464 /checksum/DEm6tVdtAo
+msgctxt "UI"
+msgid "Fit table to available space"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1521
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1584 /checksum/0XXaTHcnXI
+msgctxt "UI"
+msgid "Apply"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1538 /checksum/lGT+AD2KQf
+msgctxt "UI"
+msgid "Comfortable"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1539 /checksum/heahQOgVDQ
+msgctxt "UI"
+msgid "Short"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1540 /checksum/9elg/KCR9s
+msgctxt "UI"
+msgid "Compact"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1607 /checksum/sH5sO0XvT3
+msgctxt "UI"
+msgid "Sorting…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1608 /checksum/8U6U7m0x13
+msgctxt "UI"
+msgid "Exporting…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1618 /checksum/85vusbvSjf
+msgctxt "UI"
+msgid "Listen Mode: <strong>Active</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1626 /checksum/3055C4KgDT
+msgctxt "UI"
+msgid "Last scan $time ago"
+msgstr ""
+
+#: shared/components/format/Interval/Interval.tsx:84 /checksum/vkQ1giC8GS
+msgctxt "UI"
+msgid "Now"
+msgstr ""
+
+#: shared/lib/time/data.tsx:3 /checksum/rGqkY6ibUF
+msgctxt "CAL"
+msgid "Su"
+msgstr ""
+
+#: shared/lib/time/data.tsx:4 /checksum/WAJX6F7fZW
+msgctxt "CAL"
+msgid "Mo"
+msgstr ""
+
+#: shared/lib/time/data.tsx:5 /checksum/ZtLN7yenBI
+msgctxt "CAL"
+msgid "Tu"
+msgstr ""
+
+#: shared/lib/time/data.tsx:6 /checksum/rBV2mmglgr
+msgctxt "CAL"
+msgid "We"
+msgstr ""
+
+#: shared/lib/time/data.tsx:7 /checksum/lKTE4Gh+QE
+msgctxt "CAL"
+msgid "Th"
+msgstr ""
+
+#: shared/lib/time/data.tsx:8 /checksum/ddug3sAky2
+msgctxt "CAL"
+msgid "Fr"
+msgstr ""
+
+#: shared/lib/time/data.tsx:9 /checksum/eVZtNdL8j3
+msgctxt "CAL"
+msgid "Sa"
+msgstr ""
+
+#: shared/lib/time/data.tsx:12 /checksum/gOilVx3Uc1
+msgctxt "CAL"
+msgid "Sunday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:13 /checksum/+UlQ33J7CS
+msgctxt "CAL"
+msgid "Monday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:14 /checksum/2oHC6NkSpU
+msgctxt "CAL"
+msgid "Tuesday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:15 /checksum/cBnynGV1d+
+msgctxt "CAL"
+msgid "Wednesday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:16 /checksum//QCopXoo2U
+msgctxt "CAL"
+msgid "Thursday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:17 /checksum/sMuXP/rsEv
+msgctxt "CAL"
+msgid "Friday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:18 /checksum/1gEyjZCK1s
+msgctxt "CAL"
+msgid "Saturday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:23 /checksum/8C/9aCuwIV
+msgctxt "CAL"
+msgid "Jan"
+msgstr ""
+
+#: shared/lib/time/data.tsx:24 /checksum/OdQTXNpHUh
+msgctxt "CAL"
+msgid "Feb"
+msgstr ""
+
+#: shared/lib/time/data.tsx:25 /checksum/GcWS+36AVW
+msgctxt "CAL"
+msgid "Mar"
+msgstr ""
+
+#: shared/lib/time/data.tsx:26 /checksum/yt+qrgmQ+S
+msgctxt "CAL"
+msgid "Apr"
+msgstr ""
+
+#: shared/lib/time/data.tsx:27 shared/lib/time/data.tsx:41
+#: /checksum/hUG65KzFzP
+msgctxt "CAL"
+msgid "May"
+msgstr ""
+
+#: shared/lib/time/data.tsx:28 /checksum/H4O+6BDV/M
+msgctxt "CAL"
+msgid "Jun"
+msgstr ""
+
+#: shared/lib/time/data.tsx:29 /checksum/+fG6ufkF7j
+msgctxt "CAL"
+msgid "Jul"
+msgstr ""
+
+#: shared/lib/time/data.tsx:30 /checksum/cmjiPGmdSx
+msgctxt "CAL"
+msgid "Aug"
+msgstr ""
+
+#: shared/lib/time/data.tsx:31 /checksum/KzqexW1Otw
+msgctxt "CAL"
+msgid "Sep"
+msgstr ""
+
+#: shared/lib/time/data.tsx:32 /checksum/SDslPZhRoF
+msgctxt "CAL"
+msgid "Oct"
+msgstr ""
+
+#: shared/lib/time/data.tsx:33 /checksum/OK2OumiEGq
+msgctxt "CAL"
+msgid "Nov"
+msgstr ""
+
+#: shared/lib/time/data.tsx:34 /checksum/3ol0rhhEJT
+msgctxt "CAL"
+msgid "Dec"
+msgstr ""
+
+#: shared/lib/time/data.tsx:37 /checksum/THc+ufvBHJ
+msgctxt "CAL"
+msgid "January"
+msgstr ""
+
+#: shared/lib/time/data.tsx:38 /checksum/wleCey0htJ
+msgctxt "CAL"
+msgid "February"
+msgstr ""
+
+#: shared/lib/time/data.tsx:39 /checksum/R7dPr5ELwu
+msgctxt "CAL"
+msgid "March"
+msgstr ""
+
+#: shared/lib/time/data.tsx:40 /checksum/5+fXpyACUY
+msgctxt "CAL"
+msgid "April"
+msgstr ""
+
+#: shared/lib/time/data.tsx:42 /checksum/cTBXFqUBZZ
+msgctxt "CAL"
+msgid "June"
+msgstr ""
+
+#: shared/lib/time/data.tsx:43 /checksum/BtrYNWUQcD
+msgctxt "CAL"
+msgid "July"
+msgstr ""
+
+#: shared/lib/time/data.tsx:44 /checksum/TLEpyjh+cm
+msgctxt "CAL"
+msgid "August"
+msgstr ""
+
+#: shared/lib/time/data.tsx:45 /checksum/83hPxjXxXn
+msgctxt "CAL"
+msgid "September"
+msgstr ""
+
+#: shared/lib/time/data.tsx:46 /checksum/mafgSxxlEG
+msgctxt "CAL"
+msgid "October"
+msgstr ""
+
+#: shared/lib/time/data.tsx:47 /checksum//C8NaVpq5Y
+msgctxt "CAL"
+msgid "November"
+msgstr ""
+
+#: shared/lib/time/data.tsx:48 /checksum/9JVTCEZIN8
+msgctxt "CAL"
+msgid "December"
+msgstr ""
+
+#: shared/components/Notifications/Notifications.tsx:244 /checksum/kFuPtdj2PY
+msgctxt "UI"
+msgid "Close All"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:66
+#: /checksum/Pbq1qG9RJj
+msgctxt "UI"
+msgid "{duration} ago"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:117
+#: /checksum/Qbz4Ayd28K
+msgctxt "UI"
+msgid "You have no messages…"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:118
+#: /checksum/5h3lN9gOZq
+msgctxt "UI"
+msgid "Login to see your notifications…"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:129
+#: shared/components/NotificationsList/NotificationsList.tsx:139
+#: /checksum/gzinhFzBsT
+msgctxt "UI"
+msgid "Notifications"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:136
+#: /checksum/95yIsAOHSY
+msgctxt "UI"
+msgid ""
+"{count} unread {count, plural, one {notification} other {notifications}}"
+msgstr ""
+
+#: shared/components/ChartPager/ChartPager.tsx:73 /checksum/0sTtjChq/z
+msgctxt "UI"
+msgid "Step left"
+msgstr ""
+
+#: shared/components/ChartPager/ChartPager.tsx:86 /checksum/bf4Ygh9TJ5
+msgctxt "UI"
+msgid "Step right"
+msgstr ""
+
+#: shared/components/ChartPager/ChartPager.tsx:98
+#: shared/components/carbon/DatePager/DatePager.tsx:110 /checksum/3zRDywALs+
+msgctxt "UI"
+msgid "Skip to the end"
+msgstr ""
+
+#: shared/components/Timeline/Timeline.tsx:61 /checksum/ROKxCJgs98
+msgctxt "UI"
+msgid "Toggle the section…"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:29 /checksum/XEa29O/eL/
+msgctxt "UI"
+msgid "We've failed to report the issue (you might have a connection issues)."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:30 /checksum/pXgcLZ78lC
+msgctxt "UI"
+msgid "Please contact our technical support team."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:33 /checksum/ez5/u4BQ64
+msgctxt "UI"
+msgid "We have been notified about the issue and are working on a fix."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:34 /checksum/hav+RWLOY7
+msgctxt "UI"
+msgid "For further information please contact our technical support."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:37 /checksum/ia/LtU7xYZ
+msgctxt "UI"
+msgid "There's a new version of this page available"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:39 /checksum/nLnO+1+HEd
+msgctxt "UI"
+msgid ""
+"This is not an error, we have just released a new version of this page."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:40 /checksum/RSadH9RTI2
+msgctxt "UI"
+msgid "Please reload the page to get the latest version."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:59 /checksum/W5XZYVGZrq
+msgctxt "UI"
+msgid "Reload the page to continue"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:69 /checksum/sM67mb+aX6
+msgctxt "UI"
+msgid "Technical support"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:96 /checksum/VyMUPIZMk2
+msgctxt "UI"
+msgid "Unknown Error"
+msgstr ""
+
+#: shared/charts/MultiLine/MultiLine.tsx:120 /checksum/AMBWvayRmY
+msgctxt "UI"
+msgid "An error has occurred in the chart!"
+msgstr ""
+
+#: shared/components/carbon/Calendar/Calendar.tsx:194 /checksum/J1swR3mzbW
+msgctxt "UI"
+msgid "Failed to load the calendar widget"
+msgstr ""
+
+#: shared/components/carbon/OtpInput/OtpInput.tsx:53 /checksum/Q3pq3nPCw5
+msgctxt "UI"
+msgid "Enter the one-time password<br/>generated by your OTP app"
+msgstr ""
+
+#: shared/components/carbon/Select/Select.tsx:19 /checksum/kgY4Q7Zflg
+msgctxt "UI"
+msgid "Choose an option"
+msgstr ""
+
+#: shared/components/carbon/DataTable/DataTable.tsx:253 /checksum/1S7dSi0fw/
+msgctxt "UI"
+msgid "{count, plural, =1 {# item} other {# items}} selected"
+msgstr ""
+
+#: shared/components/carbon/DataTable/DataTable.tsx:464 /checksum/6v3Z6und4K
+msgctxt "UI"
+msgid "Select row"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:52 /checksum/UQQSrqxv7w
+msgctxt "UI"
+msgid "Previous page"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:53 /checksum/ewj1GtYIq6
+msgctxt "UI"
+msgid "Next page"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:56 /checksum/UbBppVp4ef
+msgctxt "UI"
+msgid "{min}–{max} of {total} items"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:59 /checksum/nCnP8rP6z0
+msgctxt "UI"
+msgid "Items per page"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:61 /checksum/aM/Du2cS1c
+msgctxt "UI"
+msgid "of {total} pages"
+msgstr ""
+
+#. One letter format e.g. "1y" (1 year)
+#: shared/components/format/Timesince/Timesince.tsx:21 /checksum/lmDeptUzje
+msgctxt "UI"
+msgid "{num}y"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:22
+#: shared/components/format/Timesince/Timesince.tsx:26 /checksum/jYlc0CZdj9
+msgctxt "UI"
+msgid "{num}m"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:23 /checksum/6fXvvlhKx/
+msgctxt "UI"
+msgid "{num}w"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:24 /checksum/4f1923K8Qx
+msgctxt "UI"
+msgid "{num}d"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:25 /checksum/9JPC6sZmCf
+msgctxt "UI"
+msgid "{num}h"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:27 /checksum/fJSK2NREFQ
+msgctxt "UI"
+msgid "{num}s"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:31 /checksum/nuTJ8lQ6oY
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {year} other {years} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:32 /checksum/IO+MN6nDT9
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {month} other {months} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:33 /checksum/UgMH39E77d
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {week} other {weeks} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:34 /checksum/9Jrmz3TB7z
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {day} other {days} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:35 /checksum/0BdOuMCWOr
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {hour} other {hours} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:36 /checksum/nqK7sMvQfH
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {minute} other {minutes} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:37 /checksum/7MT9RqmPUe
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {second} other {seconds} }"
+msgstr ""
+
+#. "in 1 week"
+#: shared/components/format/Timesince/Timesince.tsx:41 /checksum/NekcZQXII4
+msgctxt "UI"
+msgid "in {a}"
+msgstr ""
+
+#. "in 1 week and 2 days"
+#: shared/components/format/Timesince/Timesince.tsx:43 /checksum/LJk37V/K7M
+msgctxt "UI"
+msgid "in {a} and {b}"
+msgstr ""
+
+#. "1 week and 2 days"
+#: shared/components/format/Timesince/Timesince.tsx:46 /checksum/NwMVMlB+zO
+msgctxt "UI"
+msgid "{a} and {b}"
+msgstr ""
+
+#: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:18
+#: /checksum/0oWwXJjSJv
+msgctxt "UI"
+msgid "Email Confirmation"
+msgstr ""
+
+#: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:24
+#: /checksum/fO9TZjmzuO
+msgctxt "UI"
+msgid "A confirmation email has been sent to: <strong>{email}</strong>"
+msgstr ""
+
+#: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:37
+#: /checksum/e7Gru/kIEg
+msgctxt "UI"
+msgid "Please confirm the request by following the link included."
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:13 /checksum/SjZn2pSSEW
+msgctxt "UI"
+msgid "Today"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:20 /checksum/atXk5quAyc
+msgctxt "UI"
+msgid "Yesterday"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:34 /checksum//8WXbamE8z
+msgctxt "UI"
+msgid "This Week"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:48 /checksum/3YK7E7SR3s
+msgctxt "UI"
+msgid "Last Week"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:59 /checksum/j8H6u1xYwy
+msgctxt "UI"
+msgid "This Month"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:70 /checksum/Yh5p1EuYEk
+msgctxt "UI"
+msgid "Last Month"
+msgstr ""
+
+#: shared/components/carbon/Panel/ProgressTable/ProgressTable.tsx:59
+#: /checksum/dKJ/VT5Fd3
+msgctxt "UI"
+msgid "No data…"
+msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "5 years"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 year"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "6 months"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "3 months"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 month"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 week"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Profitability Calculator (Basic Options)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Cash Flow Calculator (Advanced Options)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Capital Expenditure (CAPEX)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monthly Operational Expenditure (OPEX)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Initial Hardware Value & Initial Infrastructure Value"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hardware & Infrastructure Appreciation / Depreciation (%)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HODL Ratio"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Discount Rate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Profitability Historical Backtesting"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Projecting Possible Scenarios"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Share Your Custom Mining Profitability Analysis"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "There are dozens of Bitcoin mining profitability calculators out there that "
+#~ "miners can use to make quick estimates about their margins. In fact, these "
+#~ "mining tools have existed for almost as long as Bitcoin itself."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "However, we've created a new profitability calculator which aims to provide "
+#~ "far more customization for the many variables that go into a mining "
+#~ "operation's cash flow analysis. Namely, we enable users to set advanced "
+#~ "variables such as monthly Bitcoin price and difficulty increments, capital "
+#~ "expenditure (CAPEX) and ASIC hardware inventory values, asset appreciation "
+#~ "or depreciation, additional fees and operating expenses, and more."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "In this guide, we'll explain how to use these advanced options to make "
+#~ "detailed projections of your potential cash flow from Bitcoin mining. These "
+#~ "cash flow visualizations can be particularly useful for pitch decks if you "
+#~ "are raising funds or just for yourself to get a better idea of how to best "
+#~ "reinvest past profits into newer hardware."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profitability Calculator - basic options"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The basic version of our profitability calculator is what you're likely "
+#~ "already accustomed to seeing on other sites. The inputs are:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong>Current BTC price & difficulty </strong> (pulled from an API in "
+#~ "real-time but still customizable)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "<strong>Total hashrate</strong> (TH/s)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "<strong>Total power consumption</strong> (Watts)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "<strong>Electricity price</strong> ($/kWh)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong>Pool & other fees</strong> (e.g. firmware devfees, revenue splits, "
+#~ "etc.; taken as a % of revenue)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "<strong>Time period</strong> (custom range from 6 - 60 months)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong>Avg. transaction fees per block</strong> (additional mining revenue "
+#~ "from transaction fees)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong>Price increment</strong> (change the BTC price by a custom % "
+#~ "monthly)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong>Difficulty increment</strong> (change the BTC network difficulty by "
+#~ "a custom % monthly)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Bitcoin's network difficulty has always increased significantly over long "
+#~ "time periods, but the increase typically lags price increases because the "
+#~ "time to manufacture and deploy new ASIC hardware is a bottleneck on "
+#~ "difficulty growth."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "BTC Difficulty chart"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Keep in mind that both of these increments are MONTHLY, meaning that the "
+#~ "difficulty increment in the cash flow calculator accounts for a bit more "
+#~ "than two actual Bitcoin difficulty adjustments each time. <em>For difficulty"
+#~ " to approximately double over the course of 1 year — as it has historically "
+#~ "done in the last few years — the monthly difficulty increment should be set "
+#~ "at about 6%</em>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Price is relatively harder to predict, so we recommend playing around with "
+#~ "different bullish and bearish scenarios. For example, see what would happen "
+#~ "by increasing price faster than difficulty (as occurs in bull markets) or "
+#~ "increasing it slower than difficulty (as occurs in sideways movements or "
+#~ "bear markets)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Once you put in your values for the inputs above, you'll receive the "
+#~ "following information about your operation:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monthly revenue in BTC and total BTC mined over the full time period"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monthly profit or loss in USD (or other fiat currency)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cumulative profit or loss in USD over your selected time period"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Your break-even electricity price given your hashrate, consumption, and pool"
+#~ " fee"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Your average cost of production for 1 BTC over your selected time period"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "But to really make the most of this tool, we recommend using the advanced "
+#~ "options."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profitability Calculator - advanced options"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Source: <a>Mining Profitability Calculator</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The advanced version of our mining profitability calculator gives you a much"
+#~ " more sophisticated overview of how your mining business will perform in "
+#~ "different scenarios. Let's explain the custom options one-by-one."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Capital expenditures are costs you pay to acquire or upgrade your business' "
+#~ "assets. In Bitcoin mining, examples of CAPEX include:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Purchasing ASICs and PSUs"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Building or purchasing a data center facility to house your hardware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Immersion cooling or HVAC (air cooling) setup"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Labor for installation"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Taxes and licenses to be legally compliant"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you have fixed monthly costs that are independent of your mining revenue,"
+#~ " you can factor those in here. Examples of common OPEXs include:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Employee salaries"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fixed monthly expenses such as security or insurance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Note that this should <em>not</em> include OPEX to run the miners, as that "
+#~ "is calculated for you based on your power consumption and electricity price "
+#~ "per kWh."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The <em>Initial Hardware Value</em> input should be the estimated resale "
+#~ "value of any mining hardware (ASICs and PSUs) you own. Meanwhile, the "
+#~ "<em>Initial Infrastructure Value </em> should be the market value of all "
+#~ "your infrastructure such as containers, immersion cooling tanks and fluid, "
+#~ "generators, etc."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "These two inputs for monthly appreciation / depreciation allow you to change"
+#~ " the value of your physical assets over time."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Historically, the value of ASIC hardware is highly dependent on Bitcoin's "
+#~ "price (and to a much lesser extent, the price of other SHA-256 coins "
+#~ "including Bitcoin Cash and Bitcoin SV as well). At the same time, ASICs "
+#~ "become less valuable when newer and more efficient models reach the market "
+#~ "and the network difficulty increases. For instance, Antminer S9s that were "
+#~ "originally selling for $2000 - $3000 in 2016 were available for $20 - $50 "
+#~ "after the <a>2020 halving</a>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you calculate mining cash flow for 6 - 12 months, BTC price should be a "
+#~ "significant variable that determines the change in value of your hardware. "
+#~ "On the other hand, increasing difficulty and newer ASICs hitting the market "
+#~ "should be the main factors that contribute to depreciation over longer time "
+#~ "periods."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The value of your infrastructure such as containers, buildings, land, etc. "
+#~ "is likely less correlated with BTC price compared to ASIC hardware. That's "
+#~ "why we enable you to set a separate rate for appreciation and depreciation "
+#~ "of infrastructure."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Most miners do not mine bitcoin purely to maximize their fiat profit in the "
+#~ "short-term. Instead, it's very common for miners to hold at least some "
+#~ "portion of their profits in BTC on their balance sheet, giving them exposure"
+#~ " to potential price appreciation. With this in mind, we created the <em>HODL"
+#~ " Ratio</em> as a way for users to determine a percentage of their net profit"
+#~ " each month they want to keep in BTC rather than cashing it out. If you set "
+#~ "a nonzero value for <em>Price Increment</em> in the basic inputs, the HODL "
+#~ "Ratio will impact your <em>End Profit/Loss</em> as the value of BTC on your "
+#~ "balance sheet will appreciate or depreciate in fiat terms over time."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To illustrate this, below is a chart with all of the inputs exactly the same"
+#~ " as the one posted most recently above. The only difference is that the "
+#~ "first had a HODL Ratio of 0%, and this one has a HODL Ratio of 100% (aka a "
+#~ "MicroStrategy Treasury Policy)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profitability Calculator - HODL ratio"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Source: <a>Profitability Calculator with HODL Ratio = 100%</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "For a much deeper overview of different strategies for treasury management, "
+#~ "we strongly recommend that you read <a>The Intelligent Bitcoin Miner</a> by "
+#~ "Anicca Research."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you set a nonzero <em>Discount Rate</em>, it will not impact the stats or"
+#~ " the data series on the chart. However, we calculate NPV (Net Present Value)"
+#~ " in the backend, and we print this value in the CSV file which you can "
+#~ "download (see the <em>Download CSV</em> text right above the stats.)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "In Discounted Cash Flow Analysis, the <em>Discount Rate</em> is an interest "
+#~ "rate used to determine the present value of future cash flows."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Date range selection dialog"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "In addition to making forward projections on your estimated mining "
+#~ "profitability given assumptions about BTC price and difficulty, you can also"
+#~ " check the historical profitability with real data. To do so, click the Time"
+#~ " Period input in the top-left corner to open the pop-up window shown below. "
+#~ "Then click Historical / Mixed and select the months that you want to start "
+#~ "and end the analysis period."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "As indicated, your <strong>End Date</strong> does not need to be in the "
+#~ "past, even when your <strong>Start Date</strong> is. You can either do a "
+#~ "pure historical analysis of mining profitability based on real data, or you "
+#~ "can keep your assumptions about future BTC price, difficulty, and average "
+#~ "transaction fees per block to extend your analysis into the future as well. "
+#~ "An example of a mixed projection is shown below. You'll also notice that "
+#~ "mining revenue and profitability both fall significantly in Month 50, which "
+#~ "is due to the halving that is automatically factored in based on expected "
+#~ "10-minute block times."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Revenue example for historical backtesting"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Finally, we'll leave you with an example of how you can use the Braiins "
+#~ "mining cash flow calculator to visualize projections for multiple different "
+#~ "scenarios for BTC price action in the future. Whether you want to present "
+#~ "financial projections to prospective investors or just inform yourself in "
+#~ "order to make better decisions when managing your business, this can aid you"
+#~ " in that venture."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Scenario 1: Difficulty Rises Faster than Price"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Source: <a>Profitability Calculator Difficulty Increment > Price "
+#~ "Increment</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Since difficulty is increasing faster than price, the revenue and profit per"
+#~ " month decreases when holding hashrate constant. This is also likely to "
+#~ "result in <em>Hardware Value</em> depreciation, as the ASICs are becoming "
+#~ "less profitable over time."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Scenario 2: Price Rises Faster than Difficulty"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Source: <a>Profitability Calculator Price Increment > Difficulty "
+#~ "Increment</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "With price outpacing difficulty, the profitability of hashrate is increasing"
+#~ " over time and the <em>Hardware Value </em>is depreciating much more slowly "
+#~ "than in the previous case, leading to cumulative profit and net cash flow "
+#~ "both accelerating upward each month."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you want to share or save your mining profitability analysis without "
+#~ "needing to redo the inputs, you can use a custom sharing URL. Simply click "
+#~ "\"Share\" in the top-right corner above the chart and your custom URL will "
+#~ "be generated along with options to share directly on social media."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining Insights | BTC Profitability Calculator Guide"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Insights"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "BTC Profitability Calculator Guide"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Instructions explaining how to use the Advanced Options in our new Bitcoin "
+#~ "mining profitability calculator in order to estimate cash flow for your "
+#~ "mining operation."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Nov 03, 2020"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Although there are dozens of variables that can impact a Bitcoin mining "
+#~ "operation's bottom line, the viability of a mining business can ultimately "
+#~ "be determined with just one simple statistic: the cost to mine 1 BTC — aka "
+#~ "the “Cost of Production for Bitcoin."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The Braiins <a>Cost to Mine 1 BTC calculator</a> is meant to make it quick "
+#~ "and easy for you to determine your cost of production for any ASIC hardware "
+#~ "model or even for a mix of different hardware devices. By comparing your "
+#~ "cost of production with the actual Bitcoin price, you can see your profit "
+#~ "margin and better understand which hardware models will best suit your "
+#~ "mining operation."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "How to Calculate Your Cost of Production"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Let's start by quickly explaining each of the inputs and how they work."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong><em>Bitcoin Price</em></strong> and <strong><em>Network "
+#~ "Difficulty</em></strong> are both pulled from an API in real-time, so you "
+#~ "don't need to do anything if you want to use current values."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong><em>Select Hardware</em></strong> allows you to autofill the "
+#~ "hashrate and consumption by choosing a specific ASIC device from our "
+#~ "database. The models are sorted by hardware manufacturer (Bitmain, MicroBT, "
+#~ "Innosilicon, and Canaan) and then further subcategorized by model family "
+#~ "(e.g. Antminer S9, S17, and S19 variations are all grouped together)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hardware Selection"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Alternatively, you can select the <em>Custom</em> option to input your own "
+#~ "hashrate and power consumption values rather than using preloaded values "
+#~ "from the ASIC database, which is best if you use a performance boosting "
+#~ "firmware like <a>Braiins OS+‎</a> to improve your device's efficiency."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong><em>Electricity Price</em></strong> is your all-in cost per kWh of "
+#~ "electricity, which is used to calculate your cost of production for mining 1"
+#~ " Bitcoin given your mining efficiency (W/TH)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong><em>Pool Fee</em></strong> is the percentage of your BTC mined that "
+#~ "is kept by your mining pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "If you toggle on the Advanced Options, you’ll also see these inputs:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong><em>Other Fees</em></strong> factors in additional costs such as "
+#~ "downtime of your ASICs (e.g. 1-2% for regular maintenance or perhaps much "
+#~ "higher if you cycle on/off due to climate), or perhaps fees for firmware and"
+#~ " management solutions."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong><em>Difficulty Change</em></strong> allows you to change the current"
+#~ " value for difficulty by any percentage you want, in case you would like to "
+#~ "project your cost to mine in a future difficulty epoch."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong><em>Avg. Transaction Fees (BTC)</em></strong> is used to factor in "
+#~ "extra revenue from transaction fees instead of only including the fixed "
+#~ "block subsidy of 6.25 BTC. Although this is highly variable depending on "
+#~ "network activity, it has averaged out to about 0.3 BTC per block (or 5% of "
+#~ "total mining revenue) since the 2020 halving. As a result, true Cost to Mine"
+#~ " 1 BTC is lower than if you only factor in the block subsidy."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "TX Fees percentage from block"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Average % of the total block reward made up by transaction fees over time."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cost to Mine 1 BTC & Example"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To give you an example of how this tool can be used, we’ll compare a stock "
+#~ "Antminer S9 with a custom S9 running Braiins OS+‎ autotuning firmware."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Antminer S9 with stock firmware compared to an S9 with Braiins OS+‎"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You can see that improving the efficiency of the S9 by running Braiins OS+‎ "
+#~ "firmware brings the cost to mine 1 BTC down from $9293 to $7787 and the "
+#~ "break-even electricity price from $0.043 to $0.052 per kWh. The S9 on stock "
+#~ "firmware has a 2% pool fee, while the S9 on Braiins OS+ has a 2% devfee but "
+#~ "0% pool fees on Slush Pool. In other words, the same machine with "
+#~ "essentially the same external conditions was made significantly more "
+#~ "economical by upgrading the firmware."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sharing and Embedding"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you think this tool can be useful to others in the mining industry, "
+#~ "please share it! The <em>Share</em> button right above the chart allows you "
+#~ "to share a URL with all of your user inputs, or you can select the embed "
+#~ "option and embed an iframe of the tool in English, Russian, Spanish, Farsi, "
+#~ "or Chinese."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This is also just the first of many tools and stats for Bitcoin miners that "
+#~ "we will be releasing in <a>Braiins Mining Insights</a> over the following "
+#~ "months, so check back soon to see what else we’re publishing!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining Insights | Cost to Mine 1 BTC Guide"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cost to Mine 1 BTC Guide"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "A quick guide explaining how to use the Advanced Options in our new Cost to "
+#~ "Mine 1 BTC calculator and where to find data on all the popular hardware "
+#~ "models."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cost to Mine 1 BTC Example"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining Insights | Guides"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid ""
+#~ "Braiins | Slush Pool is the 1st mining pool with more than 1.2M BTC mined "
+#~ "since 2010. Explore features such as advanced payouts, monitoring and more."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don't have sufficient permissions to view history pages."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don't have sufficient permissions to view funds pages."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirm"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid "by Braiins"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid "Mining Bitcoin since 2010 | Braiins"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "OK"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Low"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Offline"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable second factor authentication"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Second Factor Authentication"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Login"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to login first"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Security Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dashboard"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Your account is secured with second factor authentication. You can continue "
+#~ "to workspace or settings if you want to register more U2F devices."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "It looks like you do not have any 2FV method active."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Access denied, you need to login first!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have canceled the request."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to confirm. Please contact our support."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "User Request"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Show My Dashboard"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Continue"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirm User Request"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Thank you for your feedback"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Feedback"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid email format!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Password Reset"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "New Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Password Reset Complete"
+#~ msgstr ""
+
+#~ msgctxt "UI, action"
+#~ msgid "Login"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your password has been set. You may go ahead and log in now."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your account has been activated."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Login to continue"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Login to existing account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Welcome, {username}!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Welcome!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Forgot password?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Signup"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "User Login"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unsubscribe"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response from server, please contact our support."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No users with active newsletter subscription have been found!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to select at least one user"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Newsletter Unsubscription"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Language:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The pool is currently in maintenance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining is not affected"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Please check back soon.{br}If it takes more then a minute, please see our "
+#~ "{twitter}{nbsp}and{nbsp}{facebook}."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Maintenance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Too Many Requests"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Too many requests.\n"
+#~ "Please try again later."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Server Error"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Something went wrong with the website.\n"
+#~ "Mining is not affected."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Less Than"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Equals"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "More Than"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Show all & hide Labels"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add New Command"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Command"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Error fetching metadata!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response received!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Changes saved"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Submitting changes…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Save"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Save & Apply"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Save changes & restart miner if needed."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "No pool for saving found! Probably an invalid combination of group ID & Pool"
+#~ " ID"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response in group edit!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response in pool edit!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool \"{url}\" Added"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Moved"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Duplicate names: {names}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool URL"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Username"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Actions"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Saving changes…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cancel Pool Creation"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Move Up"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Move Down"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Remove"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No pools added…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Quota: {value}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fixed Share Ratio: {value}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add New Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pools"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Groups"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Group Name"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mode"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Value"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Quota"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fixed Share Ratio"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cancel Removal"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No groups added…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Save Changes"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No groups yet…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add New Group"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Saving…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{title} Configuration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response in Autotuning edit!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response in Performance edit!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Performance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable Hashboard {name}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Frequency"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Voltage"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "WARNING: Overclocking may damage your device. Proceed at your own risk!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable Autotuning"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "PSU Power Limit (for all hashboards)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dynamic Power Scaling"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable Dynamic Power Scaling"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Decrease Power Limit Value"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Minimal PSU Power Limit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Shutdown When Minimal PSU Power Limit is Reached"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Shutdown Duration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hours"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Global Hash Chain Configuration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Override Global Hash Chain Configuration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response in Temperature & Fans edit!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Temperature & Fans"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Temperature Control"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Temperature Control Mode"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<p><strong>WARNING:</strong> Changing the default settings may cause "
+#~ "overheating which can result in system shutdown or even irreversible "
+#~ "hardware damage.</p><p>Proceed at your own risk!</p>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Understood"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Auto"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Manual"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Target Temperature"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hot Temperature"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dangerous Temperature"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fan Control"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Speed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Minimum Required Fans"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Number of fans required for system to run."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Use <strong>0 for immersion cooling</strong>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fan count unknown!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Name"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Command"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Run Action"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Action"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete Action"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "System Commands"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Custom Commands"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No log messages yet…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enterprise Features"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Ready out of the box"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Every device using Braiins OS+‎ 21.04 or later can easily connect to the "
+#~ "cloud-based platform."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "One-time setup"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Connect your devices to the platform once, manage them remotely forever."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Efficient"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The telemetry data are efficiently being sent over the next-gen Stratum V2 "
+#~ "protocol, using the same channel as for dev fee collection."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Encrypted and safe"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "All the config and telemetry data sent over the internet are encrypted, "
+#~ "effectively stopping possible eavesdropping or man-in-the-middle attacks."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Learn more on the Website"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Manager connection"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Farm ID"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "ID from Braiins OS+‎ Manager"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last Configuration Obtained"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "View Documentation"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "How to Connect"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Step 1 - Create a Braiins OS+‎ Manager account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Create a Braiins OS+‎ Manager account, confirm your e-mail address and get "
+#~ "the Farm ID."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sign Up Here"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Step 2 - Enter the Farm ID"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To connect the devices, enter the Farm ID that you get in previous step."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You can enter the Farm ID using the <a>Braiins OS Toolbox</a>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Detailed instructions"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Manager"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Batch configure and monitor your devices conveniently over the internet with"
+#~ " Braiins OS+‎ for free."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The platform is currently in the beta stage. Please use with caution and as "
+#~ "always, scale responsibly!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Braiins OS+‎ Manager connection is active, many local settings have been "
+#~ "disabled."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Get Help"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reboot Device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Restart BOSminer"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Start BOSminer"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stop BOSminer"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unknown graphql client error!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load configuration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response for backend notifications!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unknown event type \"{type}\" received!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "An error has occurred while trying to remove an appeal!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dismiss"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Device is unreachable!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reboot error!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rebooting"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Please wait until the device is responsive…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Get help"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Download"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<p>When you click the \"Download\" button, the system will automatically "
+#~ "gather all the system logs and package them into one <strong>.zip "
+#~ "file</strong> so that you can easily send the package to our support "
+#~ "team.</p><p>These logs will help our team to investigate your issues. "
+#~ "Generating the archive can take up to 1 minute.</p>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "<a>Submit a Support ticket</a>{br}(or send email to {email})"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your session has expired. Please login again."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Configuration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "System"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Required value!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid login response!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Log In to {name}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "profile menu"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Documentation"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Quick Actions"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Logout"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Temperature [°C]"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Speed [%]"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response when fetching dashboard data!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bosminer Info is not available"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Real Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Temperature"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Nominal Average Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{id} Real Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Target"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hot"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dangerous"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Overall Status"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Real{br}Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Nominal{br}Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "ASIC#"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HW Error{br}Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{name}{br}Temp"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hash Boards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Configure Hash Boards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Alive"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dead"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "URL"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "User"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Status"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Active"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Accepted"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rejected"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stale"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last Difficulty"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Best Share"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Generated Work"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Yes"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Pools"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stable"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Iteration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Tuner Uptime"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stage Duration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Approx. Watts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Loaded profile created on {time}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Tuner Status"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Performance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "N/A"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Get Braiins OS+‎"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Temperature ({name})"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Est. Efficiency"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Power Usage"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Status"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connected to {farmID}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last configuration obtained {time} ago"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fan Monitor"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fan {name}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{value} RPM"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rejection Ratio"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate 1M"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate 15M"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate 24H"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Difficulty Accepted"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Difficulty Rejected"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Blocks Found"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "System Uptime"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "System Status"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Miner Overview"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hostname: {hostName}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Default View"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Compact View"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid response in Settings edit!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Personal"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Change Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{title} Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Color Theme"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dark"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Light"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Current Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Repeat New Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hostname"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Protocol"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "IP Address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Netmask"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Gateway"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "DNS Servers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Comma separated values"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Ping"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pinging {target}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Traceroute"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Tracerouting {target}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Looking up {target}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Network"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Diagnostics"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Flash New Firmware Image"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Upload a sysupgrade-compatible image here to replace the running "
+#~ "firmware.{br}Check \"Keep settings\" to retain the current configuration "
+#~ "(requires a compatible firmware image)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Keep Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Choose File"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Clear file"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Flash Image"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Backup / Restore"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Download Backup:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Click \"<strong>Generate archive</strong>\" to download a tar archive of the"
+#~ " current configuration files.{br}To reset the firmware to its initial state,"
+#~ " click \"Perform reset\" (only possible with squashfs images)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Generate Archive"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Restore Backup:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To restore configuration data, you can upload a previously generated backup "
+#~ "archive here."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Upload Archive"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reset to Factory Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reset Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Auto Upgrade"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Configure the firmware to automatically install new releases."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Firmware Backup / Flash"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Default"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cannot calculate data without missing inputs!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Get up to 20% better efficiency with Braiins OS+‎"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stock Firmware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Overclocking"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ High Efficiency"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Inputs"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "BTC Price"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Network Difficulty"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select Hardware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Consumption"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Elec.price / kWh"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Block Subsidy"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Fee"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Advanced Options"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Diff. Increment"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Adjust the current difficulty by any percentage."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Other Fees"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Additional operational expenses such as dev fees for firmware, management "
+#~ "and hosting fees, etc."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Avg. Tx Fees"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Average value of transaction fees per block mined."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Include always-live data for difficulty and BTC price"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Otherwise we’ll include currently filled values"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stats with Stock Firmware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stats with Braiins OS+‎ Overclocking"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stats with Braiins OS+‎ High Efficiency"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This calculator will show you the cost to mine 1 Bitcoin based on your "
+#~ "hashrate, power consumption, and additional (optional) inputs. You can "
+#~ "select any hardware model from the dropdown menu or choose \"Custom\" to "
+#~ "input the hashrate and power consumption yourself."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cost to Mine 1 Bitcoin"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "User Guide"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Share"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hardware Efficiency"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Margin"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Break-Even Elec. Price"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cost of Production"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "BTC Mined per Day"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profit per Day"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cost to Mine 1 BTC"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to fetch network stats!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Home"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profitability"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cost to Mine"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Blog"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins | Mining Insights"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Bitcoin Mining Insights is a collection of tools and stats built to help "
+#~ "Bitcoin miners."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cannot calculate data without missing data!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid state of inputs!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load profitability data!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Start date cannot be in the future!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "End date cannot be before start date!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "End Date"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Submit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Start Date"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Historical / Mixed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Length"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Value between 6 and 60 is required!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Months"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Future Projection {count, plural, one {# month} other {# months}}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Historical data for BTC price, network difficulty, block subsidy and "
+#~ "transaction fees are retrieved automatically from the database.{br}<a>Read "
+#~ "user guide</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Backtest {range}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mixed Projection {range}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Time Period"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Elect. price per kWh"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Difficulty Increment"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Annual change in difficulty over the given Time Period. Note there are "
+#~ "approximately 2 difficulty adjustments per month, so this increment should "
+#~ "be roughly double your expected average difficulty adjustment."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Price Increment"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Annual increase or decrease in BTC price over the given Time Period."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "CAPEX"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Initial capital expenditure (e.g. purchasing hardware, setting up more "
+#~ "capacity, labor and materials for installation, etc.)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monthly OPEX"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fixed monthly expenses (e.g. labor, security, insurance, taxes)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Initial HW Value"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total starting value of your ASIC hardware inventory."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hardware Appr./Depr."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Annual % change in the value of your ASIC hardware inventory."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Initial Infra Value"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Total starting value of your infrastructure (e.g.: land, data center "
+#~ "infrastructure, containers, immersion cooling systems)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Infra Appr./Depr."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Annual % change in the value of your infrastructure."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The % of your monthly profit that you hold as BTC instead of cashing out "
+#~ "entirely to fiat."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The interest rate used in discounted cash flow (DCF) analysis to determine "
+#~ "the present value of future cash flows."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Profitability Calculator"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This calculator will show you your net profit from mining based on your "
+#~ "hashrate, efficiency, electricity price, and other operational expences. To "
+#~ "include capital expenditure (e.g. costs to buy hardware), use the advanced "
+#~ "inputs."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stats"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Download CSV"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Avg. Cost of Production"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The average cost to mine 1 BTC for your mining operation."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Electricity Break Even"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The average break-even electricity price for your mining operation."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "CAPEX Break Even"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The month when your cumulative profit equals or surpasses your initial CAPEX"
+#~ " investment. Will not display a number if CAPEX = 0 or if the Break Even "
+#~ "point is not reached during the given time period."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "End Profit/Loss"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total BTC Mined"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "IRR"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Internal Rate of Return, a metric used to estimate the profitability of "
+#~ "potential investments.{br}IRR value is undefined when CAPEX is 0."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profitability Calculator"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Stats"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate and Mining Economics Charts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profitability of Popular SHA-256 ASICs"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Miner Holdings & Transaction Flows"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Powered by Coin Metrics Network Data Pro"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Pools Hashrate Distribution"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate Distribution"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin ASIC Hardware & Power Capacity Calculator"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "More updates in progress…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "We’re working on adding more stats, charts, and tools to shed light on the "
+#~ "bitcoin mining industry."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Subscribe to get notified when we release an update."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "By subscribing you are agreeing to our <a>Privacy Policy</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Other Mining Tools"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Profitability Calculator"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Launch Calculator"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This calculator will show you the cost to mine 1 Bitcoin based on your "
+#~ "hashrate, power consumption, and additional (optional) inputs. You can "
+#~ "select any hardware model from the dropdown menu or choose “Custom” to input"
+#~ " the hashrate and power consumption yourself."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Published on $date"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Start Reading"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Table of Contents"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Stats"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Blocks History"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Widget Error"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "System Statistics"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid "System Stats"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid ""
+#~ "Check the current hashrate and recent block finds for our BTC mining pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "News"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sorry, nothing has been found on this URL."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Spread the word"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Page load failed: {error}"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid "News"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid ""
+#~ "Learn about design and functionality upgrades to the pool and other major "
+#~ "releases in our BTC mining stack solution."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Load more"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Please <a>upgrade your browser</a> to improve your experience."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You are using an outdated browser."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your browser does not support all features needed for this site."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "There is a new version of this page. Please refresh to continue."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Click to reload the page"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Widget Error!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to login to view this page"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Continue to Login"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Date"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Financial Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Amount"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fee"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Details"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payouts History"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "We haven't sent you any payouts yet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Export"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Coins"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Config. shown items"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monitoring"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "History"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards History"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Activity History"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Funds"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Financial Accounts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Overview"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Wallets"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Join Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Help"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total Available Balance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You are looking at a Demo Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Block Rewards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Special Rewards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards Chart"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Today's Rewards (Unconfirmed)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unconfirmed Rewards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The amount you've earned in the current UTC day so far. Reward for a certain"
+#~ " day is confirmed after the end of the day."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Sum of your rewards from blocks which are still waiting for more "
+#~ "confirmations. Once the block has 100 confirmations, the associated reward "
+#~ "becomes confirmed and moves to a specified financial account(s)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Yesterday's Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Sum of your rewards for the previous day. It is displayed only after all "
+#~ "rewards for the certain day (UTC) are confirmed."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Available Balance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Sum of unpaid balance across all of your Bitcoin Financial Accounts. To "
+#~ "withdraw your funds, visit the Funds section and setup payout rules."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "All-Time Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sum of all your rewards for the selected cryptocurrency."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last Payout"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Time elapsed since the last payout from one of your Bitcoin accounts."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Est. Daily Reward (1 TH/s)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Est. Daily Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Estimate of your rewards per day based on your recent hashrate and the "
+#~ "current difficulty. Actual rewards can be more or less depending on the "
+#~ "pool's luck."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Activity"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Warning"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "loading…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No data received"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Scoring Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate (5 minute)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate (1 hour)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate (1 day)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monitoring State"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Auto-detect Alert Limit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Alert Limit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker ID"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker Name"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last Share"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker States"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your Contribution to the Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Threshold"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards for Last 14 Days"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Required field"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Only letters, numbers, underscore and hyphen!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Password must have at least 5 characters!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Passwords do not match!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to prove that you are not a robot!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your URL appears to be broken!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Form processing has failed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Off"
+#~ msgstr ""
+
+#~ msgid "Monday"
+#~ msgstr ""
+
+#~ msgid "Tuesday"
+#~ msgstr ""
+
+#~ msgid "Wednesday"
+#~ msgstr ""
+
+#~ msgid "Thursday"
+#~ msgstr ""
+
+#~ msgid "Friday"
+#~ msgstr ""
+
+#~ msgid "Saturday"
+#~ msgstr ""
+
+#~ msgid "Sunday"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "AM"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "PM"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to obtain captcha!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add New Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rename Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid wallet ID!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rename the Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rename"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Wallet Name"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Name you wallet…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Disable Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Type"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Detail"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don’t have any disabled wallets."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have no active wallets"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Wallets are external cryptocurrency addresses you can send payouts to. Start"
+#~ " by adding a wallet."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Disable"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Active Wallets"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Disabled Wallets"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pending email confirmation. <a>Resend email</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create Financial Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pause Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Resume Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payouts are blocked by Admin!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your payouts have been resumed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your payouts have been paused!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Contact Us"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Blocked Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Your payouts have been locked by admin! Please contact our technical support"
+#~ " team if you don't know why."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Resume All Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Do you really want to resume your payouts?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pause All Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You're about to pause all your payouts, overriding your payout rules and "
+#~ "stopping the payouts indefinitely."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To resume payouts in the future, you will be prompted for your password and "
+#~ "2FA (if enabled)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Currency"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don’t have any disabled financial accounts."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fiat Equivalent"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout rule"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Next Payout ETA"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "API-driven"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No Payout Rule. <a>Set up</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No accounts have been found…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid name format!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Account \"$name\" has been created"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add New Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Account Name"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Name your account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payouts Are Blocked!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Active Accounts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Disabled Accounts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Accounts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Now"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Request Payout"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cancel Payout Request"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create New Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Rules Setup for: "
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to select a wallet!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid state encountered! Please contact support."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Payout Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirm Changes"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Wallet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Trigger Type"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Estimate Not Available"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "payout rule not set"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "in an hour"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "unforeseeable"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Account Balance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Funds that have been credited to this account, immediately available for "
+#~ "payout."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Next Payout"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Estimate of when you can expect next payout based on your recent hash rate "
+#~ "and the current payout rule."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total Income"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sum of rewards credited to this financial account during its lifetime."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Request Payout for: "
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Request Canceled"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Request Issued"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "There is a pending payout request to send this account's full balance to "
+#~ "{wallet}.{br}Do you wish to cancel it?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "We will send you the full balance of this account to {wallet}."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Estimated time of the payout: {time}."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You should receive the funds <strong>within one hour</strong>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Since the current balance is below {limit}, there may be a payout fee of "
+#~ "{fee} applied."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Do you want to continue?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Destination"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit rule"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have no payout settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "We recommend you set up payouts to receive your rewards regularly."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Set Up Payout Rule"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don't have the rights to perform this action"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to setup a payout destination first"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payouts for this account are driven by API."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Processing…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Address: {address}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Trans. ID: {link}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fee: {fee}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily Reward for {date}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward for block #{height}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last Completed Transactions"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Include Rewards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don't have any completed transactions on this account yet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete Financial Account: "
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Account disabled!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Disable Financial Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Disable Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Do you really want to disable this financial account?<br />This action is "
+#~ "<strong>permanent and irreversible</strong>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Financial Account: "
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Changes Saved"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Financial Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rename Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Financial Account Detail"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "World's First Bitcoin Mining Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{value} mined since 2010"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Currently hashing at a rate of {hashrate}."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Start Mining with\n"
+#~ "Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiin OS+‎"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Upgrade your <br /> mining machines"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "<strong>Increase hashrate</strong> on your Bitcoin ASICs,{br}<strong>improve"
+#~ " efficiency</strong> as much as 25%, and{br}<strong>get 0% pool "
+#~ "fees</strong> on Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Explore now"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Price (USD)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Price"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Difficulty (Trillion)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Difficulty"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate (EH/s)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashvalue (SAT/TH/day)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashvalue"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashprice ($/TH/day)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashprice"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Tx Fees per Block"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Tx Fees % of Block Reward (%)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Avg. Tx Fees per Block (BTC)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Tx Fees per Block (BTC)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily Mining Revenue (USD million)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily Mining Revenue (USD)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate & Difficulty"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashvalue & Hashprice"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Transaction Fees"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily Mining Revenue"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Miner Holdings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Miner Flows"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Story"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Our Mining Pool Story"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin mining since 2010"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Statistics"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sign Up"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining Company."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Pushing the industry forward with a full-stack mining solution from mining "
+#~ "firmware up to the pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Setup"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Mining"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Zcash Mining"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mobile app"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Troubleshooting"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "API & Proxy"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Contact us"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "About Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Terms & Conditions"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards & Fees"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate Proof"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This website uses cookies to make Slush Pool work for you.{br}By using this "
+#~ "site, you agree to our <a>cookie policy</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dissmiss"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The Genesis Block"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Bitcoin launches with the mining of the genesis block by Satoshi "
+#~ "Nakamoto.{br}There are very few miners in the early days, and it’s possible "
+#~ "for solo miners to find blocks frequently with CPUs."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Slush Pool Launches"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "More participants join the network and some begin mining with GPUs, making "
+#~ "it increasingly difficult for solo miners to find blocks. To address this, "
+#~ "Marek “Slush” Palatinus announces the creation of the Bitcoin.cz cooperative"
+#~ " mining pool in a <a>bitcointalk thread</a>. The pool mined 3 blocks in its "
+#~ "first 24 hours of operation on December 16th. (Bitcoin.cz was later renamed "
+#~ "to Slush Pool in 2016.)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The concept of pooled mining had been discussed in the community before the "
+#~ "launch of Slush Pool, with a few implementations all launching around the "
+#~ "same time. These early pools did not operate for long before <a>shutting "
+#~ "down</a>, except for the Slush Pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid " Braiins is Founded & Slush Pool Grows"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Jan Čapek & Pavel Moravec combine their years of IT experience in the "
+#~ "banking & embedded engineering industries to start Braiins with a focus on "
+#~ "embedded software R&D."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Embedded devices engineer and father of Braiins OS firmware and BOSminer "
+#~ "software to replace the outdated and closed CGMiner."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Lead engineer of Slush Pool since 2013, now primarily focused on building "
+#~ "hashrate-based market products for the mining industry."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fun fact:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Slush Pool was originally operated and funded by Slush. As network traffic "
+#~ "to the pool’s servers increased, a 2% fee was introduced to cover the "
+#~ "operating costs of running the pool and to address a concern that some "
+#~ "community members had that zero fees could lead to greater centralization "
+#~ "and less competition. This validated the concept of using a mining pool as a"
+#~ " business. As a result, competitors began to emerge, such as DeepBit and BTC"
+#~ " Guild, in the Spring of 2011."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Growth & Introduction of Stratum Protocol"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "In March, the web hosting company Linode suffers a hack which leads to "
+#~ "<a>the loss</a> of 3094 BTC from the pool wallet. Slush generously covers "
+#~ "the loss out of his pocket."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "On September 10th, Slush <a>announces</a> his proposal for a new pooled "
+#~ "mining protocol known as Stratum, which helps to address many flaws of the "
+#~ "getwork mining protocol. Stratum would go on to become the open standard for"
+#~ " pooled mining, helping the industry scale over time."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins Begins Operating Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "In January, the <a>release</a> of the first ASICs by Avalon kickstarts a new"
+#~ " era in bitcoin mining."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Marek “Slush” Palatinus launches a new venture separate from Slush Pool "
+#~ "called Satoshi Labs, which develops the Trezor hardware wallets. Meanwhile, "
+#~ "Braiins acquires a majority stake in Slush Pool and takes over operations "
+#~ "and development of the pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins Upgrades Pool Infrastructure"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Braiins rewrites Slush Pool’s software to make it more scalable, easier to "
+#~ "operate, and secure.{br}Meanwhile, we continue investing in more robust "
+#~ "mining infrastructure to accommodate the expanding mining ecosystem across "
+#~ "the globe."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The 1 Milion BTC Milestone"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Slush Pool was the first to reach the 1 million BTC mined milestone and is "
+#~ "still the top mining pool in terms of total bitcoins mined at over 1.25 "
+#~ "million and counting!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "bitcoin.cz Becomes Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The mining community is regularly referring to Bitcoin.cz by its nickname of"
+#~ " \"Slush's Pool\", making “Slush Pool” an obvious choice for renaming the "
+#~ "pool as it continues to grow internationally."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins Supports BTC, not BCH"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Braiins becomes the first and only pool operator to allow individual miners "
+#~ "to participate in bitcoin’s governance by <voting>voting on the "
+#~ "controversial issues</voting> of the <segwit>SegWit upgrade</segwit> and a "
+#~ "potential block size increase. After the contentious Bitcoin Cash hard fork,"
+#~ " Braiins stays focused solely on bitcoin and doesn’t support BCH mining on "
+#~ "the pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Developing Solutions for Mining Decentralization"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The Braiins team verifies the capability for overt AsicBoost and is the "
+#~ "<asicboos>first pool to add AsicBoost compatibility</asicboos>. Meanwhile, "
+#~ "Jan leads a new initiative to offer alternative firmware for the Antminer S9"
+#~ " as centralization concerns grow with the Antbleed and covert AsicBoost "
+#~ "incidents. In September, Braiins <bos>releases a free and open-source "
+#~ "firmware</bos> called Braiins OS for Antminer S9s, enabling overt AsicBoost."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The Braiins Open-Source Initiative"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "As Braiins OS adoption continues, it becomes clear that CGminer, the mining "
+#~ "software used as a base by hardware manufacturers, has become a mess of "
+#~ "closed-source forks. To address this, Braiins begins working on BOSminer, a "
+#~ "replacement of CGminer written from scratch in Rust language."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Jan and Pavel work with Matt Corallo to <a>publish a detailed specification "
+#~ "for Stratum V2</a>, a next-generation pooled mining protocol that solves "
+#~ "many of the inefficiencies and security flaws of the original stratum "
+#~ "protocol."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Autotuning Firmware to Optimize ASICs"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Braiins launches a commercial variant of the firmware called Braiins OS+ "
+#~ "which includes per-chip autotuning to optimize ASIC efficiency at any level "
+#~ "of power consumption. The firmware includes a native (<a>partial</a>) "
+#~ "Stratum V2 implementation and the team adds Stratum V2 endpoints on Slush "
+#~ "Pool, enabling miners to have encrypted V2 connections that are more secure,"
+#~ " private, and efficient."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Braiins, which has been the sole operator of Slush Pool since taking a "
+#~ "majority stake in 2013, <a>acquires the remaining stake from Marek</a> as he"
+#~ " continues to focus on SatoshiLabs."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Slush Pool celebrates its <a>10-year anniversary</a>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Upgrades for Slush Pool and Braiins OS+"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Slush Pool gets a major upgrade, enabling an ultra-flexible payout system, "
+#~ "customizable reward splitting, and more sophisticated account structuring. "
+#~ "The user interface also gets fully redesigned."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The Braiins OS+ team grows rapidly and the list of supported hardware models"
+#~ " grows along with it to include the entire X17 generation of Antminers."
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid "Story"
+#~ msgstr ""
+
+#~ msgctxt "SEO"
+#~ msgid "Mining Bitcoin since 2010"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Wondering what’s next for the bitcoin{nbsp}mining{nbsp}industry?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Check out our thoughts in our Bitcoin{nbsp}Magazine{nbsp}article:{br}<a>The "
+#~ "Next 10 Years of Bitcoin Mining</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker State"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Change After"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Report has been sent to your email."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Report has not been sent because it contains only <strong>insignificant "
+#~ "events</strong>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Report has not been sent because you have had <strong>disabled "
+#~ "reporting</strong>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Incident detail"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Event Time: {time}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Click the worker name to go to its details page."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Use <b>arrow keys</b> to navigate through other incidents. Close by "
+#~ "<b>Esc</b>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have no monitoring events yet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You'll find all the events recorded by our monitoring system here."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Event Time"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker States (Changes)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Number of workers in each state and relative change to the previous state."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Account Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Report State"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Status of the report showing if it has been sent to you by email or not."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "State changes in time"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Priority Support"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Need help? By using this ticket form, you can make sure you will always be "
+#~ "at the front of the queue and our support agents will get back to you ASAP."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Get Priority Help"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Copy"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your active mining URLs:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Coin"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Location"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Private URLs"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Let's equip you with your <b>very own mining URL</b>, shall we? A private "
+#~ "URL will provide you with the very best mining conditions and protect your "
+#~ "operation against some kinds of unfortunate events (such as DDoS attacks "
+#~ "against our public URLs)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Request Private URL"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Custom API & Data Exports"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Eager for more data? We can provide you with data exports customized for "
+#~ "your needs. API improvements are also possible, either by extending our "
+#~ "<a>public API</a> or by deploying a private API endpoint."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Request Data"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "As a Slush Pool VIP, you qualify for extra support setting up and running "
+#~ "<a>Braiins OS+‎</a>, our enterprise-ready per-chip autotuning firmware."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Increase hashrate on your Bitcoin ASICs,"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "improve efficiency as much as 25%,"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "and get 0% pool fees on Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Braiins OS+‎ also includes an implementation of the next-generation mining "
+#~ "protocol, <a>Stratum V2</a>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Help me Upgrade"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Director of Business Development"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Email"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Telegram"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "WeChat"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Let's chat!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you want to establish more direct contact with us, we are all in. We can "
+#~ "<b>create a group chat</b> between our organizations, which will help us to "
+#~ "resolve your issues or answer your questions swiftly. Our preferred "
+#~ "messengers are Telegram and WeChat."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Contact us to get in touch:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "VIP Program"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You are a <b>Slush Pool VIP</b>.<br />Thank you for your valuable "
+#~ "contribution to our pool.<br />As a VIP, you have access to the following "
+#~ "premium features and services."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "VIP"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Current Block Info"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Luck per Number of Blocks"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Percentage ratio between shares the pool needed to find a block and average "
+#~ "number of shares needed."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker deleted"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Missing data"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "This view depends on data that is not available (yet)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "5 Minutes"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 Hour"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "24 Hours"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Recent Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker Detail"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "All Workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Boost hashrate and efficiency with Braiins OS+‎"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Worker"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Labels updated"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker(s) update has been applied"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete {count, plural, =1 {# Worker} other {# Workers}}?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Do you really want to delete {count, plural, =1 {# worker} other {# "
+#~ "workers}}?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{count, plural, =1 {# Worker} other {# Workers}} deleted."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HR (5 minute)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HR (1 hour)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HR (1 day)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Scoring HR"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "5 minute"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 hour"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 day"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Manage Labels"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Refresh"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker Attribute"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connect Workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete selected"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No worker matches the given filters"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Try extending your filters a little."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Start by connecting workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Once connected, all your workers will appear here."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Input string or RegExp to filter the table"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Filter by"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Secondary HR"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last share $time ago"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Exponential moving average of the effective hash rate. This value is "
+#~ "essential to reward calculations in the Score reward system."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Average Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Apply Filter"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Workers List"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Boost hashrate and efficiency with Braiins OS+‎ autotuning firmware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Processing"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirmed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unconfirmed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sent"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Queued"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "BTC Address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your wallet address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid BTC Wallet Address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "ZEC address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid ZEC wallet address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Weekly"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monthly"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "on $day"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "day $x"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Threshold"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Threshold Value [$coin]"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Please enter number between $min and $max"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "A payout fee of $fee is applied to payouts under $value."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Time Interval"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Choose Frequency"
+#~ msgstr ""
+
+#~ msgctxt "msg"
+#~ msgid "Invalid frequency option. Please select different one."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The minimum payout threshold for timed payouts is $min. In case your balance"
+#~ " won't reach this value at the specified date, the funds will remain on your"
+#~ " financial account and the system will try to send you the funds at the next"
+#~ " date specified by your payout rule. Timed payouts are typically processed "
+#~ "at 8:30 UTC."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Day of the Week"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Day of the Month"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "(Un)Lock Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your payouts have been locked!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Modify Reward Split"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Percentages must be numbers between 0 a 100!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to assign account to every branch!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The split sum must be exactly 100%, but yours is $value!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The changes have been saved"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create a new Financial Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payouts are locked"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward Split"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select how you want to split rewards between your financial accounts."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Split"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No accounts have been assigned yet…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No Accounts Available!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add Another Financial Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Change the Reward Split of this Coin"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Change the Wallet(s) of Financial Accounts included in the Reward Split"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "As a security precaution, you may lock your payout setup so that it cannot "
+#~ "be changed by anyone who gains access to your pool account. In practice, it "
+#~ "means that <b>it won't be possible to</b>:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To unlock the setup in the future, you will need to contact our support team"
+#~ " and provide proof of your control over at least one of the linked "
+#~ "cryptocurrency addresses or over the hashrate."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Please note that the manual verification procedure may take up to several "
+#~ "days to complete."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Your payout setup has been locked on your request. It means that it is "
+#~ "<b>not possible to</b>:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you wish to unlock your payout setup, please contact our support team and"
+#~ " follow their instructions."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Setup Lock"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "I understand the consequences and I wish to lock my payout setup"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Contact Support"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Lock Payout Setup"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monitoring settings changed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to save monitoring settings!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reporting"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Receive email notifications from the monitoring system."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Tag"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "7-day Average"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Date range"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Toggle Active Range"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid parameters!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "This address is assigned to a disabled wallet name \"<b>{name}</b>\""
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This address is assigned to a disabled wallet name \"<b>{name}</b>\". "
+#~ "<a>Enable that wallet</a>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "This address is already assigned to a wallet named \"<b>{name}</b>\""
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Wallet Type"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select wallet type"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to select currency!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have no rewards yet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "To start mining and earning rewards, <a>connect workers</a>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Bonus"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The amount you've earned thanks to mining with Braiins OS+‎ and "
+#~ "participating in the Braiins OS+‎ referral program."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Sum of your basic mining reward and bonuses. The total reward you've earned."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You've been rewarded for supporting Braiins OS+‎!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Conf. left"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Block found at"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Scoring HR"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total scoring hash rate of the pool at time when a block was found."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your Scoring Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Block Value"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Block #"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "A block is considered to be valid and the reward to be final after 100 "
+#~ "confirmations."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward Type"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rebate Rate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bounded PPS"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Special Rewards (rebates) are no longer used since November 1, 2020.\n"
+#~ "In case you are eligible for a bonus or a special reward, it is immediately applied to your block reward."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don't have any rewards yet…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Security"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Access Profiles"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Displayed Coins"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable OTP"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Disable OTP"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "All 6 digits need to be entered!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "OTP enabled"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "OTP enabling failed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Install Google Authenticator on your smartphone."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Open Google Authenticator, click \"Add an account\" / \"Scan QR code\"."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Scan the QR code below (and optionally backup the generated secret)."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enter the generated one-time password into this form."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "OTP secret (we recommend you to backup this secret safely to prevent "
+#~ "autentication issues in case you lost your device)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Not loaded yet…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "OTP disabled"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "OTP disabling failed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "U2F doesn't work on insecure protocol!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "U2F token registered"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "U2F token registration failed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unspecified"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "This device might already be registered."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "This device might not be registered yet."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Wrong U2F manifest! Please contact us about this error."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "U2F token removed"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "U2F token removal failed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Public Key"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Registered At"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last Used At"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Register U2F device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Remove U2F device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Please confirm the request on your device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You do not have permission to manage 2FA!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Skip for now"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "We strongly recommend to enable this extra layer of security."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "One Time Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "A mobile app that generates a 6-8 digit one-time password to be used for one"
+#~ " single login attempt. You can use Google Authenticator or other similar "
+#~ "services of your choice."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Set Up OTP"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Universal 2nd Factor (U2F)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Physical Security Key using FIDO Universal 2nd Factor (U2F). You can connect"
+#~ " multiple U2F devices."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Set Up U2F"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable Two-Factor Authentication"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Attachements (optional)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Feedback Form"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Back to Platform"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Thanks for you message"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your feedback is highly appreciated."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Send to Support"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Feel free to submit a bug or request a feature.{br}Please provide as much "
+#~ "information as possible."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Subject"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Describe in few words"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Description"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Share any details you can about your experience"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "May we contact you on email if we have additional questions?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Log In"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profit/Loss"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profit/Loss (USD)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Electricity Price (USD)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Monthly Revenue"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cumulative Profit and Cash Flow"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cash Flow"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hardware Value"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Net Profit/Loss (Cumulative)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Revenue per Month"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Net Profit per Month"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Revenue and Profit Calculator"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Difficulty Stats"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Blocks this Epoch"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Current Epoch Block Time"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Estimated Adjustment"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Estimated Next Difficulty"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Estimated Adjustment Date"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Previous Adjustment"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Coming Soon™‎"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HW Model"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Break-Even <nobr>Electricity Price</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily Profit <nobr>(Stock FW)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily Profit <nobr>(Braiins OS+‎)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Daily BTC Mined"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Electricity Price"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid format of news feed received!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load news feed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "News from Braiins.com"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "View all news"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hardware Name"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Calculated at 90% of full capacity, leaving a safety factor and some "
+#~ "capacity for cooling"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "# of Units"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Go to the Profitability Calculator with pre-set values for hashrate & "
+#~ "consumption"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Show All"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Capacity"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load hashrate stats!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate Stats"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate <nobr>(current)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate <nobr>(30 Days)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashvalue <nobr>(SAT/TH/Day)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashprice <nobr>($/TH/Day)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Average Fees per Block <nobr>(144 Blocks)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Fees % of Block Reward <nobr>(144 Blocks)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total Mining Revenue <nobr>($mil/Day)</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load pools data!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cannot download chart, no config present!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Period"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Exit Fullscreen [ESC]"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Switch to Fullscreen"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Generating the image…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Log In to Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reset Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you have forgotten your password, please enter your email address below "
+#~ "and we will send you instructions for setting a new one."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Email Address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Change password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Set a New Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Please, enter your new password twice to confirm it."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirm Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Email Confirmation Has Been Sent!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Please check your mailbox and follow confirmation link.{br}If you do not "
+#~ "receive an email, please make sure you have entered the address you "
+#~ "registered with, and check your spam folder.{br}In case you still did not "
+#~ "receive the confirmation, please, try to <a>reset your password</a> again."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create your New Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Repeat Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "By clicking the \"Sign Up\" button, you are creating a Slush Pool account, "
+#~ "and you agree to {termsOfUse} and {privacyPolicy}."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Terms of Use"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Privacy Policy"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirmation Email Sent"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Thank you for joining Slush Pool.{br}We've sent a confirmation email to "
+#~ "{email}. Please follow the link in that email to confirm your email address "
+#~ "and then you'll be able to sign in to your new account.{br}If you haven't "
+#~ "received the email please check also spam folder."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unsubscribe me"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "We are sorry to see you go!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Please select an account you want to unsubscribe from.{br}If you care to, "
+#~ "you can give us some feedback."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Why are you leaving?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Optional Feedback"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Go to Dashboard"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unsubscribe Successful"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Followign users have been unsubscribed:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HR"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "This chart cannot fit in available area!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate Per Location"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Detailed Statistics"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hashrate (5 min)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Found Block"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hide found blocks"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Show found blocks"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Alert limit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Each point on the chart represents a worker incident and its color describes"
+#~ " the type of incident"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "For example, when your worker goes from Low to OK, you will see an orange "
+#~ "line followed by a green point and green line, representing the state "
+#~ "change."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Required Field!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select hardware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select Manufacturer"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select HW Model"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Share on"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Embed Code"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Share Results"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Embed Form"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Multiple values for selected workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete Workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete Worker"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Revert"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Search…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Miner login"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The password can be any arbitrary text"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit {num, plural, =1 {Worker} other {# Workers} }"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker Edit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enable monitoring"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The monitoring system will detect and report any hashrate issues related to "
+#~ "this worker."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Auto detect Alert Limit"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Automatically estimates Hashrate of your worker by its past activity."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Number bigger than 0.5"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "The system will report issues, when hashrate drops below this value."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select attribute"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Label"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No available URLs for selected location & protocol!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Not available for selected location"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stratum V1"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Stratum V2"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Slush Pool servers are located all around the world. For a stable connection"
+#~ " and lower latency, <strong>please select a location</strong> that is "
+#~ "closest to your mining location."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select Location"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining Protocol"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Using Braiins OS? Select V2"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Configure your mining device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "userID"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "workerName"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "anything123"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Note: workerName is optional — it is fine if you do not provide any. In this"
+#~ " case, our system will automatically create an auto worker for you. However,"
+#~ " we recommend connecting each mining device with a separate workerName for "
+#~ "efficient monitoring."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Please be patient. It may take a few minutes for your newly connected device"
+#~ " to show up."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connected! Go back"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have requested an invalid update. Those changes WILL NOT BE SAVED."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Do you wish to continue?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You have unconfirmed changes that will be discarded.\n"
+#~ "Do you wish to continue?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Required field!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Color"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Select color"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add New Label"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "New Label"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Label"
+#~ msgstr ""
+
+#~ msgctxt "UI, workers"
+#~ msgid "Abbreviation"
+#~ msgstr ""
+
+#~ msgid "Name"
+#~ msgstr ""
+
+#~ msgid "Optional information about location, power, etc."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have no labels yet."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Continue below to add you first label"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Mining Bonus"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "The amount we've refunded you (pool fee refund) for mining with "
+#~ "Braiins OS+‎."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Referral Bonus"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Bonus you've received thanks to being referred by another Braiins OS+‎ user."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Referral Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward you've earned for the Braiins OS+‎ hashrate you've referred."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward Details"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward split"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Avg. Daily Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirmed Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "All Time Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last $coin Payout"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Est. Reward per Block"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Time Since Last Submitted Share"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Scoring Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Effective HR (30m avg)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Active Workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Active Users"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Round Duration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Current Round Start"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Avg. Round Duration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Height"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "10 Block Luck"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "50 Block Luck"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "250 Block Luck"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Last Share"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Time elapsed since the last share from your mining devices has been accepted"
+#~ " by the pool."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "CDF"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "High CDF indicates bad luck in the current round. For example, if CDF "
+#~ "exceeds 50%, it means that the current round has taken longer than it should"
+#~ " (on average) with the current network difficulty and amount of work "
+#~ "expended. CDF only reflects past luck and does not provide any estimation of"
+#~ " future luck."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Confirmed Reward"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Sum of rewards from confirmed blocks that has not been paid yet."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Unconfirmed Reward"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "The amount you've earned in the current UTC day so far. Reward for a certain"
+#~ " day is confirmed after the end of the day."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Yesterday's Reward"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Sum of your rewards for the previous day. It is displayed only after all "
+#~ "rewards for the certain day (UTC) are confirmed."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Sum of all your rewards for the selected cryptocurrency."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Balance of your accounts"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Sum of unpaid balance across all of your Financial Accounts for the selected"
+#~ " cryptocurrency. To withdraw your funds, visit the Funds section and setup "
+#~ "payout rules."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Time elapsed since the last payout from one of your accounts for the "
+#~ "selected cryptocurrency."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Estimated Reward for the Current Block"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "The estimation is based on your scoring hashrate as a proportion of the "
+#~ "pool's scoring hashrate at the current moment."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Average daily reward computed from your past rewards."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Estimate of your rewards per day based on your recent hashrate and the "
+#~ "current difficulty. Actual rewards can be more or less depending on the "
+#~ "pool's luck."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Recent Blocks"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Simplified overview of your recent rewards (blocks found) and their "
+#~ "confirmation progress."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Last 30 Days of Rewards"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Chart of your rewards for the last 30 days. It is normal for the daily "
+#~ "values to fluctuate due to luck."
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid "Percentage to payout"
+#~ msgstr ""
+
+#~ msgctxt "Intro"
+#~ msgid ""
+#~ "Percentage of rewards value remaining before the payout threshold is "
+#~ "reached. The green part represents the confirmed reward, the blue part "
+#~ "represents the unconfirmed reward and the red part represents the estimated "
+#~ "reward for the next block."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Current Round Duration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Go to Pool Statistics"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "CDF"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Cumulative Distribution Function"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Rule:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Payout Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Received an invalid challenge structure!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No U2F challenge data were received!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "6-digit number required!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "All required methods must be used!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Please complete the multi-factor authentication."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Password is required!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Password is too short!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enter your current password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Lost your password?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Click here!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connect your token & <strong>click here to start</strong>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Loading challenge data…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirm the request on your device."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Done!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Two Factor Authentication"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Authenticate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enter Your Password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Back"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Expand"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins OS+‎ Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Referral Bonus"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Referral Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have no daily rewards yet…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Your rewards for each day will appear here once confirmed and finalized."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards in last 30 days"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards history"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Scoring Hash Rate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hash Rate (5 min)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Active users"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Hash Rate (PPS)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Light Mode"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Dark Mode"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Automatic"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Only valid email address"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You do not have sufficient permissons to change user email adress"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This email has a pending email confirmation on your previous address: {}!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Localization"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Preferred Language"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your preferred language for web and email communication"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Preferred Timezone"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Preferred Fiat Currency"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Will be displayed in header and summary statistics."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Notifications & Visibility"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Notify me of payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Send email notifications when the system sends me payments"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Newsletter"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Receive our newsletter"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Request Account Deletion"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "If you do not want to use our service anymore, you can delete your account."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This action is final and your account cannot be reactivated in the future."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Make sure to request your final payout before confirming the deletion "
+#~ "request. Otherwise, any remaining balances are considered a generous "
+#~ "donation to the pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To complete account deletion, you will need to click on a confirmation link "
+#~ "we will send to you promptly via your email."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Please make sure that this account is the one that you want to delete."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "At Least 5 characters"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Passwords do not match"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "New password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirm new password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Active User Sessions"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Logout all sessions!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Logout all your active sessions - including the one you are using right now."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You will be logged-out from this session as well.\n"
+#~ "Are you sure that you want to continue?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Here you can choose which coins will be available for selection on your "
+#~ "<b>workspace</b> and in the <b>mobile&nbsp;app</b>."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This interface-only setting does not affect your ability to mine said coins "
+#~ "in any way."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "At least one coin must be displayed at all times."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This view requires specific permissions,\n"
+#~ "but your permissions were not loaded yet."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don't have required access permissions!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enter Workspace"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Exit Workspace"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Log in"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Log out"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sign up"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Support Login"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Help Center"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Sub-Accounts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Impersonating: \"$name\""
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "miner_holdings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Miner Holdings: Absolute values"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Absolute"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "miner_holdings_as_a_proportion_of_supply"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Miner Holdings as a Proportion of Supply"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Proportional"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load holdings data!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid data for: $keys!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "0 hops (Pools)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 hop (Miners)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Remaining Supply"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Coinbase Distance"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Total Holdings (BTC)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Type:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1-hop_miner_flows"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Miner Flows: 1-hop"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1-hop Miner Flows"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "miner_net_flows"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Miner Flows: 0-hop (Pools)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Miner Net Flows"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "30_day_mri"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bitcoin Miner Flows: 30-day MRI"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "30-day MRI"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load flows data!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Inflow"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Outflow"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load data for Flows!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "0-hop (Pools)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1-hop (Miners)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Miner / Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Block Mined"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1 Day"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "5 Days"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "5 Weeks"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "HQ"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reported <nobr>Hashrate</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Hashrate reported by pools in real-time via APIs. This should more "
+#~ "accurately reflect pools’ actual hashrate as it won't be impacted by the "
+#~ "typical short-term variance in block finds (i.e. pool \"luck\"). However, it"
+#~ " is possible for pools to misreport their hashrate."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Estimated <nobr>Hashrate</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Calculated based on the amount of blocks each pool has found. While this can"
+#~ " be somewhat inaccurate over short time periods due to luck, it doesn’t "
+#~ "require trusting the pool operators."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Blocks Mined"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Average <nobr>Block Value</nobr>"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Market Share"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1D"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "5D"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "5W"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "$name pool icon"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unknown"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Count"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Data not available…"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Found block"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Time"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Show full range"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Show active range"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Y Markers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Y2 Markers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Chart Attributes"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Block Found At"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Duration"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Time elapsed since the previous block was found by the pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Luck"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "A block number within the coin's blockchain. Follow the link to see more "
+#~ "details about the block."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Pool Daily Reward"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Welcome to the new Slush Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Choose Your Look"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "We're still working on making this experience better."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Customizable Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Control every detail of your financial flows. Split your mining rewards into"
+#~ " multiple financial accounts and set when you want to receive payouts - "
+#~ "daily, weekly, and monthly options are newly available."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Enjoy better mobile usability"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Navigate to every part of the website easily and view all the data you need."
+#~ " Charts and tables are now easily usable even on small screens."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Give your eyes a break"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Yeah, it's true. The widely requested dark mode is finally here."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Now you can decide how Slush Pool looks to you."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You can change this later by going to your Account Settings."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "<strong>Automatic</strong> (based on color theme of your system)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Get Started"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid date format!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid date range!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Can't go below 2016-01-01!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You can't export empty data set!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connection timeout!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Date Range"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "From"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "To (inclusive)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Format"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Record Types"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Activity Log"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "When applicable, data for all coins are included regardless of your current "
+#~ "preference or mining status for that coin."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Output Format"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Generate Exports"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Bad format of API response"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to fetch response from server"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "- No extract -"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mining for Beginers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Learn the crucial basics"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Rewards & Payouts"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "About getting paid"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "FAQ & Customer support"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Do you need further help?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Server response error"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No results found"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Try adjusting your search to find what you're looking for."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Actual query used"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Where to Start"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "What can we help you with?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Clear search input"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Local hints available"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Close"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Search"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Save successful"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{value} {name} ago"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Access Profile"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create Access Profile"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Delete Access Profile"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Update Access Profile"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "accounting"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "infrastructure"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "monitoring"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Caught in an infinite loop!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Access profile successfully deleted."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profile created"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Update saved"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profile creation failed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Update failed!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid server response"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to select a permissions preset!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to generate an access token!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to allow at least one form of access!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You have to enter password!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profile Name"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Access Permissions"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Profile is active"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You can deactivate this profile while keeping it's credentials"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You don't have sufficient permissions to create a new access profile!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You will be able to access this profile via our website using the "
+#~ "credentials below."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Allow access to web APIs"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You will be able to use a token authentication in your scripts or 3rd-party "
+#~ "applications."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Generate new token"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "-- API token not set --"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Allow website login"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Account Username"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Confirm password"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Meta"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Created at"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last update"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last usage"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Changes were successfully saved."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Master Account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Full"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Read-only"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Limited read-only"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "manage access profiles"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "modify settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "manage workers"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "see setting"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "see payouts and wallets"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "see activity log"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "see sensitive data"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "see reward history"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "see performance data"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "You can set up multiple access profiles with different passwords (or API "
+#~ "tokens) and different levels of permissions."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "This way, it is possible to share limited access to your user account "
+#~ "without compromising its security."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Access profiles can be flexibly (de)activated or changed at any time by the "
+#~ "master account."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Click here for permissions overview"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Permissions Overview"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Web Access Username"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Web Access"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "API Access"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Are you sure you want to delete this access profile?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Your current profile"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Suspended"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You do not have any devices yet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You do not have permission to manage Access Profiles!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create New"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "No token received"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Do you want to unlink this device?"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Device label:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connected at:"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Unlink"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Device unlinked from your account"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "To monitor your user account in our official mobile app, please follow these"
+#~ " steps."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "1. Download the application"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "2. Enter device label for later identification / invalidation."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "3. Click \"Connect\" and scan the QR code generated on your device."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Android"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "iOS"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You haven't connected any mobile device yet"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Device Label"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connected"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Last Used"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Add new device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "New device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Place your device label"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Connect"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mandatory field, 3 to 30 characters"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Scan QR code on the left using our application"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You can also use token value for manual entry"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Done, take me back"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "You do not have permission to manage Devices!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Invalid form"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "-- Enter --"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Multilingual<br/>Support"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "We provide quick personal assistance to all of our miners in English, "
+#~ "Russian, Chinese, and German."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "API & Data<br/>Export"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Exporting mining and reward data is made straightforward and efficient "
+#~ "through API's as well as CSV and JSON downloads."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "VIP<br/>Program"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Running a large-scale mining operation? Let's talk about customized "
+#~ "solutions to best suit your needs."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Mobile<br/>Application"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Overview of your mining activity in your pocket. Get notified when there is "
+#~ "something needing your attention."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Playstore"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "App Store"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "…and we are just\n"
+#~ "getting started."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Join Pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Try demo"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Control every detail of your financial flows with our customizable payout "
+#~ "system."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Split your mining rewards into multiple financial accounts."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "It's just like a bank account, giving you a precise overview of all "
+#~ "transactions."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Choose when you want to receive your payouts. Daily, weekly, or monthly? No "
+#~ "problem!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Worker Monitoring"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Get alerted about changes in your hashrate as soon as they happen with our "
+#~ "advanced monitoring system."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Filter your workers by different kinds of rules or even using regex."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Check out the state of every one of your workers."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "View and analyze each worker's HR to discover potential issues or just cheer"
+#~ " it on."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Access Management"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Safely share access to your pool account with colleagues and integrate APIs "
+#~ "without sacrificing the security of your funds."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Create a new access profile (for a human or robot - API) and specify its "
+#~ "permissions."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Have an overview of your access profiles and modify them easily when needed."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Advanced\n"
+#~ "Feature Set"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Score"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "All-time Mined"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Reward System"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Real-time\n"
+#~ "Pool Stats"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Find out how we're doing."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Autotunning{br}mining firmware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Increase hashrate on your Bitcoin ASICs, improve efficiency as much as 25%, "
+#~ "and get 0% pool fees on Slush Pool."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Open Source{br}mining firmware"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Cutting-edge firmware with an implementation of Stratum V2 and mining "
+#~ "software written from scratch in Rust language."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Next generation protocol for pooled mining"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Quality improvements including reduced data loads, empty block elimination, "
+#~ "hashrate hijacking prevention, and more."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "World's first{br}mining pool"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Industry leaders in transparency and innovation, with more than 1.25 million"
+#~ " BTC mined since 2010."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Discover more"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Braiins full product stack"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Calculate your\n"
+#~ "expected rewards"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Find out how much BTC revenue you'll earn with your hashrate at the current "
+#~ "network difficulty."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "TIP: <a>Get Braiins OS+‎</a> to increase the TH/W of your ASICs."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Insert your Hashrate"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Expected Daily Revenue"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "If you can, rotate your device<br />to see the chart."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Create New Label"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Empty"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Edit Labels"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "One Time Password (OTP)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "OTP is a time-dependent code to be used for a single confirmation attempt. "
+#~ "You can use Google Authenticator or other similar apps of your choice to "
+#~ "generate the codes for you."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "{count} registered {count, plural, =1 {device} other {devices}}"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Universal Second Factor (U2F)"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid ""
+#~ "Physical device following the FIDO Universal 2nd Factor standard. You can "
+#~ "use multiple devices like TREZOR or Ubikey to add another level of security."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Register New Device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Remove Existing Device"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Two-Factor Authentication is currently active."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Two-Factor Authentication is currently NOT active!"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "We highly recommend using 2FA. You can choose from two options below."
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Two-Factor Authentication"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Loading Data…"
+#~ msgstr ""
