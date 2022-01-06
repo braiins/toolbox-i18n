@@ -415,11 +415,6 @@ msgctxt "UI"
 msgid "Scan Network"
 msgstr ""
 
-#: packages/toolbox/app/pages/Devices/Devices.tsx:1291 /checksum/jmd6ZFw6iv
-msgctxt "UI"
-msgid "Install BOS+ on Everything"
-msgstr ""
-
 #: packages/toolbox/app/pages/Devices/Devices.tsx:1302 /checksum/ye9Pe7uryy
 msgctxt "UI"
 msgid "Search the Table…"
@@ -1032,18 +1027,11 @@ msgctxt "UI"
 msgid "Fit the screen"
 msgstr ""
 
-#~ msgctxt "UI"
-#~ msgid "Fit table to available space"
-#~ msgstr ""
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1291 /checksum/OUD8jPeUVV
+msgctxt "UI"
+msgid "Install BOS+‎ on Everything"
+msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid "{min}–{max} of {total} items"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Items per page"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "of {total} pages"
+#~ msgid "Install BOS+ on Everything"
 #~ msgstr ""
