@@ -1,0 +1,46 @@
+# https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "master" ]
+
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        # https://nodejs.org/en/about/releases/
+        node-version: [ 21.7.x ]
+
+    steps:
+      - uses: 'actions/checkout@v4'
+
+      - name: 'Install node'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 21
+
+      - name: 'Install Yarn'
+        run: corepack enable |
+          corepack prepare yarn@stable --activate
+
+      # Yarn dependencies cannot be cached until yarn is installed
+      # WORKAROUND: https://github.com/actions/setup-node/issues/531
+      - name: 'Extract cached dependencies'
+        uses: 'actions/setup-node@v4'
+        with:
+          cache: 'yarn'
+
+      - name: 'Update dependencies'
+        run: 'corepack yarn --immutable'
+
+      - name: 'Run the tests'
+        # language=bash
+        run: 'FORCE_COLOR=3 make validate'

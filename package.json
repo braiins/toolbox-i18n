@@ -1,0 +1,16 @@
+{
+    "name": "locale",
+    "packageManager": "yarn@4.1.1",
+    "type": "module",
+    "dependencies": {
+        "@formatjs/icu-messageformat-parser": "2.7.6",
+        "pofile": "^1.1.4",
+        "tsx": "^4.7.1",
+        "typescript": "^5.4.3",
+        "zx": "^7.2.3"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "1.6.2",
+        "@types/node": "^20.11.30"
+    }
+}

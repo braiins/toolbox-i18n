@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "incremental": false,
+        "noImplicitAny": false,
+        "extendedDiagnostics": true,
+        "noEmit": true,
+        "pretty": true,
+
+        "baseUrl": ".",
+        "lib": ["es2023"],
+
+        "isolatedModules": false,
+        "esModuleInterop": true,
+        "preserveSymlinks": false,
+        "moduleResolution": "bundler",
+        "allowSyntheticDefaultImports": true,
+
+        "allowJs": true,
+        "checkJs": false,
+        "skipLibCheck": true,
+        "resolveJsonModule": true,
+
+        "module": "ESNext",
+        "target": "ESNext"
+    },
+    "include": ["./bin"],
+    "exclude": ["**/node_modules"]
+}
