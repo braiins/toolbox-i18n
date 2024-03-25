@@ -10,3 +10,1028 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1-dev\n"
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:979
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1038 /checksum/KcE81/lbC/
+msgctxt "UI"
+msgid "All"
+msgstr ""
+
+#: packages/toolbox/app/pages/E404.tsx:9 /checksum/SmkgRt8tjK
+msgctxt "UI"
+msgid "Page Not Found"
+msgstr ""
+
+#: packages/toolbox/app/pages/E404.tsx:10 /checksum/Dk+8tl62KG
+msgctxt "UI"
+msgid "We couldn't find the page or file you're looking for."
+msgstr ""
+
+#: shared/lib/router/misc.tsx:63 /checksum/DI3eXXShyd
+msgctxt "UI"
+msgid "An error has occurred while loading the page!"
+msgstr ""
+
+#: shared/components/carbon/DatePager/DatePager.tsx:89
+#: shared/lib/helpOverlay/HelpMe.tsx:162 /checksum/xku/Ae0wC2
+msgctxt "UI"
+msgid "Previous"
+msgstr ""
+
+#: shared/components/carbon/DatePager/DatePager.tsx:101
+#: shared/lib/helpOverlay/HelpMe.tsx:169 /checksum/FLgviAnpcl
+msgctxt "UI"
+msgid "Next"
+msgstr ""
+
+#: shared/lib/layout/components/Layout.tsx:230 /checksum/cVJRkxBrxE
+msgctxt "UI"
+msgid "An error has occurred!"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1512
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1585
+#: shared/components/carbon/DataTable/DataTable.tsx:258
+#: shared/components/carbon/Progressbar/Progressbar.tsx:65
+#: /checksum/1r/fx4e7T/
+msgctxt "UI"
+msgid "Cancel"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:652
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1077
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1348 /checksum/mNp+r9gd5E
+msgctxt "UI"
+msgid "Disabled"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1612 /checksum/D+W+rowx1j
+msgctxt "UI"
+msgid "Loading…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:387 /checksum/ZYbsui/w4d
+msgctxt "UI"
+msgid "Error"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/components/StatusPage/StatusPage.tsx:48
+#: /checksum/3nCmoeStAW
+msgctxt "UI"
+msgid "Go to Homepage"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:183 /checksum/cM6eWbvdlw
+msgctxt "UI"
+msgid "Password"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:157
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1071 /checksum/Y+am5Yp1ex
+msgctxt "UI"
+msgid "Autotuning"
+msgstr ""
+
+#: packages/toolbox/app/pages/Log/Log.tsx:25
+#: packages/toolbox/app/pages/Root/Root.tsx:258 /checksum/jeX/hNle4b
+msgctxt "UI"
+msgid "Log"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:319 /checksum/CYAkeY00Qq
+msgctxt "UI"
+msgid "Open menu"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:133 /checksum/KwuybsWn+f
+msgctxt "UI"
+msgid "Hashrate"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:101 /checksum/LlgQaskXjK
+msgctxt "UI"
+msgid "ID"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:653
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1075 /checksum/rGh6T8gPti
+msgctxt "UI"
+msgid "Running"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1389
+#: packages/toolbox/app/pages/Root/Root.tsx:259
+#: packages/toolbox/app/pages/Settings/Settings.tsx:25 /checksum/4rTQE18CBV
+msgctxt "UI"
+msgid "Settings"
+msgstr ""
+
+#: shared/components/app/LinksBar/LinksBar.tsx:40 /checksum/4arFVhx+6a
+msgctxt "UI"
+msgid "Language"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:651
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1076
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1349 /checksum/8lnFStJQyT
+msgctxt "UI"
+msgid "Enabled"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1607
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1635
+#: packages/toolbox/app/pages/Root/Root.tsx:257 /checksum/QRPb99Bg92
+msgctxt "UI"
+msgid "Devices"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:311 /checksum/i56R53fXeQ
+msgctxt "UI"
+msgid "Installs & Device Configs"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:349 /checksum/Qawi3UpGAF
+msgctxt "UI"
+msgid "Running updates $progress…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:354 /checksum/QqDyDDasa/
+msgctxt "UI"
+msgid "Updates Completed"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:372 /checksum/a6PvQ9RklR
+msgctxt "UI"
+msgid "Selected Devices"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:380 /checksum/iggK2aOFM5
+msgctxt "UI"
+msgid "Updated"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:403 /checksum/8ojYj9y6F3
+msgctxt "UI"
+msgid "$progress Completed"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:413 /checksum/k99N2vpxJY
+msgctxt "UI"
+msgid "ETA $eta"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:442 /checksum/8TzvBVU0gP
+msgctxt "UI"
+msgid "Stop Action"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:466 /checksum/o6pULoDLvU
+msgctxt "UI"
+msgid "Change Language"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:567 /checksum/xn7vgAfP/8
+msgctxt "UI"
+msgid "Braiins | Bitcoin Mining Company"
+msgstr ""
+
+#: packages/toolbox/app/pages/Root/Root.tsx:570 /checksum/MMWeCsSd0k
+msgctxt "UI"
+msgid "Bitcoin Mining Company"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:107
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1016 /checksum/+ggUWZBcLS
+msgctxt "UI"
+msgid "Device Type"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:114 /checksum/z/wgQ+zzfq
+msgctxt "UI"
+msgid "IP"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:120
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1007 /checksum/l5DwstFdKA
+msgctxt "UI"
+msgid "IP Group"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:127 /checksum/PF+vOxJHI0
+msgctxt "UI"
+msgid "State"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:139 /checksum/KvCLkpiKSP
+msgctxt "UI"
+msgid "Chip Temp."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:145 /checksum/tv8z9nINH1
+msgctxt "UI"
+msgid "Fans"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:151 /checksum/azt1e59dYi
+msgctxt "UI"
+msgid "Boards"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:164 /checksum/U9lWddunWL
+msgctxt "UI"
+msgid "Config"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:170
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1323 /checksum/yLDFZSsSRO
+msgctxt "UI"
+msgid "Listen"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:177 /checksum/Unjg5IeNjj
+msgctxt "UI"
+msgid "Pool"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:190
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1092 /checksum/MvxLuR68y7
+msgctxt "UI"
+msgid "Labels"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:196 /checksum/ovVm/FMoFC
+msgctxt "UI"
+msgid "Note"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:626 /checksum/4K9vXa27CY
+msgctxt "UI"
+msgid "Nothing to export in current view."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:638 /checksum/3g8sS7edAi
+msgctxt "UI"
+msgid ""
+"Failed to generate data export:\n"
+"$error"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:763 /checksum/XUN9IwEWbE
+msgctxt "UI"
+msgid "Open the IP in new tab"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:776 /checksum/dHkKeUUUdT
+msgctxt "UI"
+msgid "All boards OK"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:779 /checksum/l737jEwizl
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {board} other {boards} } KO"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1009 /checksum/3QJGFezWUL
+msgctxt "UI"
+msgid "IP Groups"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1018 /checksum/fs3FwQQSb9
+msgctxt "UI"
+msgid "Device Types"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1025 /checksum/ClSaAj9TZT
+msgctxt "UI"
+msgid "Firmware"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1027 /checksum/NUOhLsbeaT
+msgctxt "UI"
+msgid "Firmwares"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1034 /checksum/G2WnVEmck2
+msgctxt "UI"
+msgid "Another Filter"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1047 /checksum/gRHpRKjNhY
+msgctxt "UI"
+msgid "Chip Temperature (°C)"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1059 /checksum/6TWiGa+3Dv
+msgctxt "UI"
+msgid "Fans (%)"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1079 /checksum/waxGsAPYCE
+msgctxt "UI"
+msgid "States"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1091 /checksum/aXrpS1/T7g
+msgctxt "UI"
+msgid "Labels…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1107 /checksum/7V+ZeQ/5NB
+msgctxt "UI"
+msgid "Unapplied changes"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1116 /checksum/sKV5vJ8BUi
+msgctxt "UI"
+msgid "Clear"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1123 /checksum/lXG94FgkUV
+msgctxt "UI"
+msgid "Done"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1145 /checksum/tiavgAzTqk
+msgctxt "UI"
+msgid ""
+"{num, plural, =1 {IP Group} other {# IP Groups} }: "
+"<strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1159 /checksum/ZpSEiJWRlF
+msgctxt "UI"
+msgid ""
+"{num, plural, =1 {Dev.type} other {# Dev.types} }: "
+"<strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1173 /checksum/pEDylJA0r3
+msgctxt "UI"
+msgid ""
+"{num, plural, =1 {Firmware} other {# Firmwares} }: "
+"<strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1186 /checksum/+nPeJHTAH7
+msgctxt "UI"
+msgid "Chip Temp.: <strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1202 /checksum/xoo1dVo+gn
+msgctxt "UI"
+msgid "Fans Perc.: <strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1218 /checksum/0LteQMfYNd
+msgctxt "UI"
+msgid "Autotuning: <strong>{selection}</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1232 /checksum/DNmN86LXLE
+msgctxt "UI"
+msgid "{num, plural, =1 {Label} other {# Labels} }: {selection}"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1247 /checksum/751Y4Gt7ND
+msgctxt "UI"
+msgid "Clear Filters"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1274 /checksum/z5vcK9FGCb
+msgctxt "UI"
+msgid "There are no devices"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1275 /checksum/9DiL5ct5WU
+msgctxt "UI"
+msgid ""
+"Worker is a name for your mining device that you use as a login for your "
+"mining software."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1285
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1371 /checksum/Edh1xzEHrI
+msgctxt "UI"
+msgid "Scan Network"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1302 /checksum/ye9Pe7uryy
+msgctxt "UI"
+msgid "Search the Table…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1311 /checksum/LCpBtbm6oj
+msgctxt "UI"
+msgid "Filter"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1338 /checksum/WNBcFHE5sj
+msgctxt "UI"
+msgid "Listen Mode"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1356 /checksum/+j0xQLTdfn
+msgctxt "UI"
+msgid ""
+"With listen mode you can discover devices on your ethernet. Lorem ipsum "
+"dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1377 /checksum/jHALNUEJ99
+msgctxt "UI"
+msgid "Export Data"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1398
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1588 /checksum/0SQIfJS17t
+msgctxt "UI"
+msgid "Modify Columns"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1402
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1514 /checksum/yQsPajPvrx
+msgctxt "UI"
+msgid "Display Density"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1406 /checksum/hOQyWJF7ar
+msgctxt "UI"
+msgid "Refresh Interval: $interval"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1422
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1424 /checksum/LetCQS+/JK
+msgctxt "UI"
+msgid "Install"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1429
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1431 /checksum/1g/p5Bo3bn
+msgctxt "UI"
+msgid "Device Config"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1436
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1438 /checksum/kuE7pz1L10
+msgctxt "UI"
+msgid "Pool Config"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1443 /checksum/su6ux1JBIB
+msgctxt "UI"
+msgid "More Actions"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1513
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1587 /checksum/0XXaTHcnXI
+msgctxt "UI"
+msgid "Apply"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1530 /checksum/lGT+AD2KQf
+msgctxt "UI"
+msgid "Comfortable"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1531 /checksum/heahQOgVDQ
+msgctxt "UI"
+msgid "Short"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1532 /checksum/9elg/KCR9s
+msgctxt "UI"
+msgid "Compact"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1610 /checksum/sH5sO0XvT3
+msgctxt "UI"
+msgid "Sorting…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1611 /checksum/8U6U7m0x13
+msgctxt "UI"
+msgid "Exporting…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1621 /checksum/85vusbvSjf
+msgctxt "UI"
+msgid "Listen Mode: <strong>Active</strong>"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1629 /checksum/3055C4KgDT
+msgctxt "UI"
+msgid "Last scan $time ago"
+msgstr ""
+
+#: shared/components/format/Interval/Interval.tsx:84 /checksum/vkQ1giC8GS
+msgctxt "UI"
+msgid "Now"
+msgstr ""
+
+#: shared/lib/time/data.tsx:3 /checksum/rGqkY6ibUF
+msgctxt "CAL"
+msgid "Su"
+msgstr ""
+
+#: shared/lib/time/data.tsx:4 /checksum/WAJX6F7fZW
+msgctxt "CAL"
+msgid "Mo"
+msgstr ""
+
+#: shared/lib/time/data.tsx:5 /checksum/ZtLN7yenBI
+msgctxt "CAL"
+msgid "Tu"
+msgstr ""
+
+#: shared/lib/time/data.tsx:6 /checksum/rBV2mmglgr
+msgctxt "CAL"
+msgid "We"
+msgstr ""
+
+#: shared/lib/time/data.tsx:7 /checksum/lKTE4Gh+QE
+msgctxt "CAL"
+msgid "Th"
+msgstr ""
+
+#: shared/lib/time/data.tsx:8 /checksum/ddug3sAky2
+msgctxt "CAL"
+msgid "Fr"
+msgstr ""
+
+#: shared/lib/time/data.tsx:9 /checksum/eVZtNdL8j3
+msgctxt "CAL"
+msgid "Sa"
+msgstr ""
+
+#: shared/lib/time/data.tsx:12 /checksum/gOilVx3Uc1
+msgctxt "CAL"
+msgid "Sunday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:13 /checksum/+UlQ33J7CS
+msgctxt "CAL"
+msgid "Monday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:14 /checksum/2oHC6NkSpU
+msgctxt "CAL"
+msgid "Tuesday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:15 /checksum/cBnynGV1d+
+msgctxt "CAL"
+msgid "Wednesday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:16 /checksum//QCopXoo2U
+msgctxt "CAL"
+msgid "Thursday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:17 /checksum/sMuXP/rsEv
+msgctxt "CAL"
+msgid "Friday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:18 /checksum/1gEyjZCK1s
+msgctxt "CAL"
+msgid "Saturday"
+msgstr ""
+
+#: shared/lib/time/data.tsx:23 /checksum/8C/9aCuwIV
+msgctxt "CAL"
+msgid "Jan"
+msgstr ""
+
+#: shared/lib/time/data.tsx:24 /checksum/OdQTXNpHUh
+msgctxt "CAL"
+msgid "Feb"
+msgstr ""
+
+#: shared/lib/time/data.tsx:25 /checksum/GcWS+36AVW
+msgctxt "CAL"
+msgid "Mar"
+msgstr ""
+
+#: shared/lib/time/data.tsx:26 /checksum/yt+qrgmQ+S
+msgctxt "CAL"
+msgid "Apr"
+msgstr ""
+
+#: shared/lib/time/data.tsx:27 shared/lib/time/data.tsx:41
+#: /checksum/hUG65KzFzP
+msgctxt "CAL"
+msgid "May"
+msgstr ""
+
+#: shared/lib/time/data.tsx:28 /checksum/H4O+6BDV/M
+msgctxt "CAL"
+msgid "Jun"
+msgstr ""
+
+#: shared/lib/time/data.tsx:29 /checksum/+fG6ufkF7j
+msgctxt "CAL"
+msgid "Jul"
+msgstr ""
+
+#: shared/lib/time/data.tsx:30 /checksum/cmjiPGmdSx
+msgctxt "CAL"
+msgid "Aug"
+msgstr ""
+
+#: shared/lib/time/data.tsx:31 /checksum/KzqexW1Otw
+msgctxt "CAL"
+msgid "Sep"
+msgstr ""
+
+#: shared/lib/time/data.tsx:32 /checksum/SDslPZhRoF
+msgctxt "CAL"
+msgid "Oct"
+msgstr ""
+
+#: shared/lib/time/data.tsx:33 /checksum/OK2OumiEGq
+msgctxt "CAL"
+msgid "Nov"
+msgstr ""
+
+#: shared/lib/time/data.tsx:34 /checksum/3ol0rhhEJT
+msgctxt "CAL"
+msgid "Dec"
+msgstr ""
+
+#: shared/lib/time/data.tsx:37 /checksum/THc+ufvBHJ
+msgctxt "CAL"
+msgid "January"
+msgstr ""
+
+#: shared/lib/time/data.tsx:38 /checksum/wleCey0htJ
+msgctxt "CAL"
+msgid "February"
+msgstr ""
+
+#: shared/lib/time/data.tsx:39 /checksum/R7dPr5ELwu
+msgctxt "CAL"
+msgid "March"
+msgstr ""
+
+#: shared/lib/time/data.tsx:40 /checksum/5+fXpyACUY
+msgctxt "CAL"
+msgid "April"
+msgstr ""
+
+#: shared/lib/time/data.tsx:42 /checksum/cTBXFqUBZZ
+msgctxt "CAL"
+msgid "June"
+msgstr ""
+
+#: shared/lib/time/data.tsx:43 /checksum/BtrYNWUQcD
+msgctxt "CAL"
+msgid "July"
+msgstr ""
+
+#: shared/lib/time/data.tsx:44 /checksum/TLEpyjh+cm
+msgctxt "CAL"
+msgid "August"
+msgstr ""
+
+#: shared/lib/time/data.tsx:45 /checksum/83hPxjXxXn
+msgctxt "CAL"
+msgid "September"
+msgstr ""
+
+#: shared/lib/time/data.tsx:46 /checksum/mafgSxxlEG
+msgctxt "CAL"
+msgid "October"
+msgstr ""
+
+#: shared/lib/time/data.tsx:47 /checksum//C8NaVpq5Y
+msgctxt "CAL"
+msgid "November"
+msgstr ""
+
+#: shared/lib/time/data.tsx:48 /checksum/9JVTCEZIN8
+msgctxt "CAL"
+msgid "December"
+msgstr ""
+
+#: shared/components/Notifications/Notifications.tsx:244 /checksum/kFuPtdj2PY
+msgctxt "UI"
+msgid "Close All"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:66
+#: /checksum/Pbq1qG9RJj
+msgctxt "UI"
+msgid "{duration} ago"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:117
+#: /checksum/Qbz4Ayd28K
+msgctxt "UI"
+msgid "You have no messages…"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:118
+#: /checksum/5h3lN9gOZq
+msgctxt "UI"
+msgid "Login to see your notifications…"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:129
+#: shared/components/NotificationsList/NotificationsList.tsx:139
+#: /checksum/gzinhFzBsT
+msgctxt "UI"
+msgid "Notifications"
+msgstr ""
+
+#: shared/components/NotificationsList/NotificationsList.tsx:136
+#: /checksum/95yIsAOHSY
+msgctxt "UI"
+msgid ""
+"{count} unread {count, plural, one {notification} other {notifications}}"
+msgstr ""
+
+#: shared/components/ChartPager/ChartPager.tsx:73 /checksum/0sTtjChq/z
+msgctxt "UI"
+msgid "Step left"
+msgstr ""
+
+#: shared/components/ChartPager/ChartPager.tsx:86 /checksum/bf4Ygh9TJ5
+msgctxt "UI"
+msgid "Step right"
+msgstr ""
+
+#: shared/components/ChartPager/ChartPager.tsx:98
+#: shared/components/carbon/DatePager/DatePager.tsx:110 /checksum/3zRDywALs+
+msgctxt "UI"
+msgid "Skip to the end"
+msgstr ""
+
+#: shared/components/Timeline/Timeline.tsx:61 /checksum/ROKxCJgs98
+msgctxt "UI"
+msgid "Toggle the section…"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:29 /checksum/XEa29O/eL/
+msgctxt "UI"
+msgid "We've failed to report the issue (you might have a connection issues)."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:30 /checksum/pXgcLZ78lC
+msgctxt "UI"
+msgid "Please contact our technical support team."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:33 /checksum/ez5/u4BQ64
+msgctxt "UI"
+msgid "We have been notified about the issue and are working on a fix."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:34 /checksum/hav+RWLOY7
+msgctxt "UI"
+msgid "For further information please contact our technical support."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:37 /checksum/ia/LtU7xYZ
+msgctxt "UI"
+msgid "There's a new version of this page available"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:39 /checksum/nLnO+1+HEd
+msgctxt "UI"
+msgid ""
+"This is not an error, we have just released a new version of this page."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:40 /checksum/RSadH9RTI2
+msgctxt "UI"
+msgid "Please reload the page to get the latest version."
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:59 /checksum/W5XZYVGZrq
+msgctxt "UI"
+msgid "Reload the page to continue"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:69 /checksum/sM67mb+aX6
+msgctxt "UI"
+msgid "Technical support"
+msgstr ""
+
+#: shared/components/DidCatch/DidCatch.tsx:96 /checksum/VyMUPIZMk2
+msgctxt "UI"
+msgid "Unknown Error"
+msgstr ""
+
+#: shared/charts/MultiLine/MultiLine.tsx:120 /checksum/AMBWvayRmY
+msgctxt "UI"
+msgid "An error has occurred in the chart!"
+msgstr ""
+
+#: shared/components/carbon/Calendar/Calendar.tsx:194 /checksum/J1swR3mzbW
+msgctxt "UI"
+msgid "Failed to load the calendar widget"
+msgstr ""
+
+#: shared/components/carbon/OtpInput/OtpInput.tsx:53 /checksum/Q3pq3nPCw5
+msgctxt "UI"
+msgid "Enter the one-time password<br/>generated by your OTP app"
+msgstr ""
+
+#: shared/components/carbon/Select/Select.tsx:19 /checksum/kgY4Q7Zflg
+msgctxt "UI"
+msgid "Choose an option"
+msgstr ""
+
+#: shared/components/carbon/DataTable/DataTable.tsx:253 /checksum/1S7dSi0fw/
+msgctxt "UI"
+msgid "{count, plural, =1 {# item} other {# items}} selected"
+msgstr ""
+
+#: shared/components/carbon/DataTable/DataTable.tsx:464 /checksum/6v3Z6und4K
+msgctxt "UI"
+msgid "Select row"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:108 /checksum/UQQSrqxv7w
+msgctxt "UI"
+msgid "Previous page"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:109 /checksum/ewj1GtYIq6
+msgctxt "UI"
+msgid "Next page"
+msgstr ""
+
+#. One letter format e.g. "1y" (1 year)
+#: shared/components/format/Timesince/Timesince.tsx:21 /checksum/lmDeptUzje
+msgctxt "UI"
+msgid "{num}y"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:22
+#: shared/components/format/Timesince/Timesince.tsx:26 /checksum/jYlc0CZdj9
+msgctxt "UI"
+msgid "{num}m"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:23 /checksum/6fXvvlhKx/
+msgctxt "UI"
+msgid "{num}w"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:24 /checksum/4f1923K8Qx
+msgctxt "UI"
+msgid "{num}d"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:25 /checksum/9JPC6sZmCf
+msgctxt "UI"
+msgid "{num}h"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:27 /checksum/fJSK2NREFQ
+msgctxt "UI"
+msgid "{num}s"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:31 /checksum/nuTJ8lQ6oY
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {year} other {years} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:32 /checksum/IO+MN6nDT9
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {month} other {months} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:33 /checksum/UgMH39E77d
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {week} other {weeks} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:34 /checksum/9Jrmz3TB7z
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {day} other {days} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:35 /checksum/0BdOuMCWOr
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {hour} other {hours} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:36 /checksum/nqK7sMvQfH
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {minute} other {minutes} }"
+msgstr ""
+
+#: shared/components/format/Timesince/Timesince.tsx:37 /checksum/7MT9RqmPUe
+msgctxt "UI"
+msgid "{num} {num, plural, =1 {second} other {seconds} }"
+msgstr ""
+
+#. "in 1 week"
+#: shared/components/format/Timesince/Timesince.tsx:41 /checksum/NekcZQXII4
+msgctxt "UI"
+msgid "in {a}"
+msgstr ""
+
+#. "in 1 week and 2 days"
+#: shared/components/format/Timesince/Timesince.tsx:43 /checksum/LJk37V/K7M
+msgctxt "UI"
+msgid "in {a} and {b}"
+msgstr ""
+
+#. "1 week and 2 days"
+#: shared/components/format/Timesince/Timesince.tsx:46 /checksum/NwMVMlB+zO
+msgctxt "UI"
+msgid "{a} and {b}"
+msgstr ""
+
+#: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:18
+#: /checksum/0oWwXJjSJv
+msgctxt "UI"
+msgid "Email Confirmation"
+msgstr ""
+
+#: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:24
+#: /checksum/fO9TZjmzuO
+msgctxt "UI"
+msgid "A confirmation email has been sent to: <strong>{email}</strong>"
+msgstr ""
+
+#: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:37
+#: /checksum/e7Gru/kIEg
+msgctxt "UI"
+msgid "Please confirm the request by following the link included."
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:13 /checksum/SjZn2pSSEW
+msgctxt "UI"
+msgid "Today"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:20 /checksum/atXk5quAyc
+msgctxt "UI"
+msgid "Yesterday"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:34 /checksum//8WXbamE8z
+msgctxt "UI"
+msgid "This Week"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:48 /checksum/3YK7E7SR3s
+msgctxt "UI"
+msgid "Last Week"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:59 /checksum/j8H6u1xYwy
+msgctxt "UI"
+msgid "This Month"
+msgstr ""
+
+#: shared/lib/time/calendar.tsx:70 /checksum/Yh5p1EuYEk
+msgctxt "UI"
+msgid "Last Month"
+msgstr ""
+
+#: shared/components/carbon/Panel/ProgressTable/ProgressTable.tsx:59
+#: /checksum/dKJ/VT5Fd3
+msgctxt "UI"
+msgid "No data…"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1584 /checksum/BrXMTWJAMr
+msgctxt "UI"
+msgid "Default"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:110 /checksum/GBTcWb/ORF
+msgctxt "UI"
+msgid "Items per page:"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:113 /checksum/0V3R5Cf7KK
+msgctxt "UI"
+msgid "{min}–{max} of {total, plural, =1 {# item} other {# items}}"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:118 /checksum/lqp2V1gpZL
+msgctxt "UI"
+msgid "of {total, plural, =1 {# page} other {# pages}}"
+msgstr ""
+
+#: shared/components/carbon/Pagination/Pagination.tsx:127 /checksum/bQ7hzHIr6V
+msgctxt "UI"
+msgid "Fit the screen"
+msgstr ""
+
+#: packages/toolbox/app/pages/Devices/Devices.tsx:1291 /checksum/OUD8jPeUVV
+msgctxt "UI"
+msgid "Install BOS+‎ on Everything"
+msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Install BOS+ on Everything"
+#~ msgstr ""
